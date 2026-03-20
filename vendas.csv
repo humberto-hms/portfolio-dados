@@ -1,0 +1,601 @@
+data,ano,mes,mes_nome,vendedor,regiao,segmento,produto,quantidade,preco_unitario,faturamento,margem_pct,margem_valor,meta_mensal_vendedor
+2024-11-23,2024,11,November,Ana Lima,Cambuci,Dispositivos Médicos,Desfibrilador Port.,4,17003.56,68014.23,51.4,34972.12,127368.96
+2024-10-06,2024,10,October,Ana Lima,Tamboré,Saúde,Oxímetro Pro,1,413.43,413.43,28.4,117.4,122141.31
+2024-10-14,2024,10,October,Carlos Souza,Tamboré,Dispositivos Médicos,Bomba Infusão,4,6631.94,26527.76,41.7,11053.89,140851.02
+2024-03-22,2024,3,March,Ricardo Alves,Paraíso,Saúde,Nebulizador Compact,3,584.7,1754.1,33.6,589.04,87154.72
+2024-07-13,2024,7,July,Ana Lima,Paraíso,Saúde,Nebulizador Compact,13,563.39,7324.04,31.8,2325.86,88737.83
+2024-07-12,2024,7,July,Ana Lima,Tamboré,Saúde,Nebulizador Compact,10,581.84,5818.44,29.4,1711.63,126288.43
+2024-05-28,2024,5,May,Ana Lima,Cambuci,Odontologia,Coroa Zircônia,5,970.87,4854.34,37.0,1796.33,91385.79
+2024-06-30,2024,6,June,Carlos Souza,Tamboré,Saúde,Oxímetro Pro,10,462.15,4621.48,30.2,1395.91,97136.76
+2024-08-24,2024,8,August,Marcos Oliveira,Paraíso,Dispositivos Médicos,Monitor Cardíaco,11,12060.71,132667.78,49.6,65816.33,83915.66
+2024-01-17,2024,1,January,Fernanda Rocha,Paraíso,Saúde,Oxímetro Pro,4,487.18,1948.73,30.4,592.47,130254.0
+2024-04-18,2024,4,April,Ricardo Alves,Paraíso,Saúde,Esfigmomanômetro,3,371.66,1114.98,27.5,306.39,119295.77
+2024-05-14,2024,5,May,Ricardo Alves,Tamboré,Saúde,Esfigmomanômetro,6,368.11,2208.64,32.0,706.44,115666.84
+2024-02-16,2024,2,February,Ana Lima,Cambuci,Odontologia,Kit Cirúrgico,13,3626.34,47142.38,38.6,18186.8,106933.71
+2024-11-01,2024,11,November,Marcos Oliveira,Tamboré,Saúde,Oxímetro Pro,11,469.86,5168.51,31.1,1606.9,117587.92
+2024-05-16,2024,5,May,Ricardo Alves,Paraíso,Odontologia,Prótese Parcial,7,1956.43,13694.98,37.0,5069.81,130546.44
+2024-05-14,2024,5,May,Patrícia Nunes,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,14,9123.03,127722.48,47.1,60093.45,115536.4
+2024-04-11,2024,4,April,Carlos Souza,Paraíso,Odontologia,Implante Unitário,10,1157.8,11577.97,39.1,4528.94,145036.9
+2024-06-06,2024,6,June,Carlos Souza,Cambuci,Odontologia,Implante Unitário,2,1255.66,2511.32,43.9,1102.37,148458.91
+2024-09-29,2024,9,September,Carlos Souza,Cambuci,Dispositivos Médicos,Bomba Infusão,9,6251.27,56261.43,43.2,24285.83,122461.57
+2024-04-18,2024,4,April,Patrícia Nunes,Tamboré,Dispositivos Médicos,Monitor Cardíaco,12,12029.29,144351.49,51.0,73577.25,125491.46
+2024-08-12,2024,8,August,Patrícia Nunes,Paraíso,Odontologia,Kit Cirúrgico,4,3194.82,12779.27,35.1,4488.87,118774.51
+2024-10-28,2024,10,October,Carlos Souza,Cambuci,Odontologia,Implante Unitário,4,1096.18,4384.7,39.2,1718.3,103129.99
+2024-09-20,2024,9,September,Carlos Souza,Paraíso,Dispositivos Médicos,Bomba Infusão,4,6752.57,27010.29,44.3,11976.39,141766.82
+2024-10-22,2024,10,October,Marcos Oliveira,Cambuci,Saúde,Esfigmomanômetro,4,358.36,1433.43,30.0,429.37,104800.83
+2024-07-29,2024,7,July,Marcos Oliveira,Tamboré,Odontologia,Implante Unitário,1,1176.63,1176.63,41.0,482.84,140317.08
+2024-05-07,2024,5,May,Carlos Souza,Cambuci,Dispositivos Médicos,Bomba Infusão,3,6595.32,19785.96,41.7,8245.06,97486.45
+2024-02-08,2024,2,February,Marcos Oliveira,Tamboré,Odontologia,Implante Unitário,11,1319.83,14518.11,44.0,6390.32,147829.74
+2024-05-01,2024,5,May,Carlos Souza,Paraíso,Saúde,Esfigmomanômetro,4,418.44,1673.77,31.4,525.81,91524.6
+2024-01-02,2024,1,January,Marcos Oliveira,Paraíso,Saúde,Nebulizador Compact,7,644.38,4510.64,33.4,1505.79,134835.31
+2024-12-04,2024,12,December,Ricardo Alves,Paraíso,Odontologia,Kit Cirúrgico,5,3302.39,16511.95,35.4,5837.12,131501.6
+2024-02-01,2024,2,February,Ricardo Alves,Paraíso,Odontologia,Implante Unitário,10,1194.43,11944.29,44.5,5317.16,117178.83
+2024-01-30,2024,1,January,Patrícia Nunes,Cambuci,Odontologia,Implante Unitário,10,1096.31,10963.11,44.2,4842.51,108264.29
+2024-10-18,2024,10,October,Carlos Souza,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,10,8155.93,81559.3,45.9,37471.8,119565.88
+2024-06-10,2024,6,June,Fernanda Rocha,Cambuci,Dispositivos Médicos,Desfibrilador Port.,4,17156.21,68624.85,47.8,32792.57,125185.06
+2024-08-22,2024,8,August,Fernanda Rocha,Cambuci,Odontologia,Coroa Zircônia,10,1077.7,10776.97,38.0,4092.72,85128.25
+2024-04-19,2024,4,April,Patrícia Nunes,Paraíso,Odontologia,Prótese Parcial,15,1918.89,28783.39,38.5,11071.73,99949.12
+2024-08-12,2024,8,August,Patrícia Nunes,Tamboré,Saúde,Oxímetro Pro,11,478.54,5263.93,28.8,1515.82,126437.21
+2024-03-09,2024,3,March,Fernanda Rocha,Cambuci,Odontologia,Kit Cirúrgico,5,3347.23,16736.15,36.3,6069.16,104001.62
+2024-12-17,2024,12,December,Ricardo Alves,Paraíso,Dispositivos Médicos,Bomba Infusão,5,7243.15,36215.75,45.1,16324.84,86460.89
+2024-08-04,2024,8,August,Fernanda Rocha,Cambuci,Odontologia,Prótese Parcial,13,1944.94,25284.28,42.9,10841.59,91310.74
+2024-08-14,2024,8,August,Patrícia Nunes,Tamboré,Saúde,Oxímetro Pro,2,411.77,823.54,32.3,265.99,143275.0
+2024-10-06,2024,10,October,Ana Lima,Paraíso,Dispositivos Médicos,Monitor Cardíaco,7,11568.61,80980.3,46.8,37938.91,142928.7
+2024-01-21,2024,1,January,Fernanda Rocha,Cambuci,Dispositivos Médicos,Monitor Cardíaco,11,11506.98,126576.82,49.7,62884.25,141889.43
+2024-07-27,2024,7,July,Patrícia Nunes,Tamboré,Odontologia,Kit Cirúrgico,14,3263.75,45692.52,39.8,18185.31,92393.67
+2024-07-30,2024,7,July,Ana Lima,Cambuci,Dispositivos Médicos,Desfibrilador Port.,13,19550.94,254162.18,51.8,131690.09,140484.48
+2024-05-07,2024,5,May,Fernanda Rocha,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,7,9562.46,66937.2,47.2,31561.93,95570.36
+2024-08-23,2024,8,August,Fernanda Rocha,Paraíso,Odontologia,Kit Cirúrgico,1,3612.02,3612.02,37.4,1350.56,99502.21
+2024-02-05,2024,2,February,Fernanda Rocha,Paraíso,Dispositivos Médicos,Bomba Infusão,11,7344.74,80792.15,43.2,34916.18,145746.6
+2024-02-29,2024,2,February,Fernanda Rocha,Cambuci,Dispositivos Médicos,Desfibrilador Port.,1,16590.25,16590.25,49.6,8229.99,130998.15
+2024-06-09,2024,6,June,Marcos Oliveira,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,7,9611.12,67277.83,43.1,29023.97,83107.06
+2024-08-11,2024,8,August,Ana Lima,Tamboré,Dispositivos Médicos,Monitor Cardíaco,6,12328.24,73969.46,50.7,37497.52,144453.96
+2024-11-15,2024,11,November,Fernanda Rocha,Tamboré,Odontologia,Prótese Parcial,9,2019.9,18179.1,39.5,7171.72,108168.03
+2024-05-31,2024,5,May,Patrícia Nunes,Cambuci,Odontologia,Coroa Zircônia,11,1066.31,11729.42,36.1,4230.09,143196.39
+2024-11-11,2024,11,November,Patrícia Nunes,Paraíso,Saúde,Oxímetro Pro,5,430.82,2154.11,29.6,637.17,120598.93
+2024-12-01,2024,12,December,Fernanda Rocha,Paraíso,Saúde,Esfigmomanômetro,11,367.67,4044.36,28.8,1166.36,143082.66
+2024-03-27,2024,3,March,Ricardo Alves,Cambuci,Saúde,Nebulizador Compact,2,659.48,1318.97,33.5,441.95,127095.7
+2024-04-25,2024,4,April,Carlos Souza,Cambuci,Odontologia,Implante Unitário,4,1316.14,5264.58,42.7,2246.27,133794.25
+2024-08-21,2024,8,August,Marcos Oliveira,Tamboré,Dispositivos Médicos,Monitor Cardíaco,12,12990.89,155890.63,48.0,74774.91,97078.91
+2024-12-01,2024,12,December,Ricardo Alves,Cambuci,Odontologia,Coroa Zircônia,4,916.47,3665.9,37.7,1383.8,116257.04
+2024-01-26,2024,1,January,Patrícia Nunes,Cambuci,Odontologia,Coroa Zircônia,3,1039.08,3117.23,36.0,1122.37,149152.47
+2024-10-31,2024,10,October,Fernanda Rocha,Paraíso,Dispositivos Médicos,Bomba Infusão,14,7245.19,101432.59,42.7,43286.85,91141.05
+2024-08-31,2024,8,August,Marcos Oliveira,Paraíso,Odontologia,Prótese Parcial,13,2216.62,28816.1,39.9,11499.81,96747.21
+2024-08-13,2024,8,August,Ana Lima,Tamboré,Saúde,Termômetro Digital,5,174.09,870.45,30.4,264.25,85640.44
+2024-03-18,2024,3,March,Carlos Souza,Paraíso,Dispositivos Médicos,Monitor Cardíaco,12,11784.88,141418.59,47.5,67158.57,103161.7
+2024-08-26,2024,8,August,Marcos Oliveira,Cambuci,Odontologia,Coroa Zircônia,7,1059.35,7415.44,35.5,2632.81,128686.61
+2024-10-21,2024,10,October,Marcos Oliveira,Paraíso,Odontologia,Prótese Parcial,5,2206.46,11032.3,42.1,4646.88,146740.12
+2024-08-02,2024,8,August,Patrícia Nunes,Tamboré,Dispositivos Médicos,Monitor Cardíaco,8,11798.55,94388.43,47.6,44943.07,82031.74
+2024-06-21,2024,6,June,Ricardo Alves,Tamboré,Saúde,Termômetro Digital,14,178.83,2503.56,25.8,645.06,123557.99
+2024-01-14,2024,1,January,Marcos Oliveira,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,2,9154.09,18308.19,42.8,7838.5,112318.89
+2024-01-26,2024,1,January,Fernanda Rocha,Paraíso,Saúde,Termômetro Digital,8,173.77,1390.13,29.6,411.02,106538.84
+2024-08-03,2024,8,August,Fernanda Rocha,Cambuci,Saúde,Oxímetro Pro,12,453.55,5442.57,33.0,1796.02,104497.22
+2024-11-28,2024,11,November,Ana Lima,Tamboré,Odontologia,Implante Unitário,4,1127.85,4511.39,39.1,1764.96,90666.76
+2024-03-05,2024,3,March,Marcos Oliveira,Tamboré,Odontologia,Kit Cirúrgico,8,3639.63,29117.0,39.6,11530.74,91745.24
+2024-11-06,2024,11,November,Ricardo Alves,Tamboré,Odontologia,Kit Cirúrgico,5,3225.67,16128.35,35.2,5669.77,101837.01
+2024-12-12,2024,12,December,Marcos Oliveira,Paraíso,Dispositivos Médicos,Monitor Cardíaco,2,12730.24,25460.49,50.0,12726.03,96999.46
+2024-12-22,2024,12,December,Fernanda Rocha,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,13,9761.24,126896.16,46.7,59255.19,104304.26
+2024-08-07,2024,8,August,Ricardo Alves,Paraíso,Odontologia,Prótese Parcial,1,2246.82,2246.82,41.9,942.18,87387.72
+2024-07-04,2024,7,July,Ricardo Alves,Paraíso,Dispositivos Médicos,Monitor Cardíaco,7,11690.34,81832.4,48.1,39386.33,125532.02
+2024-11-11,2024,11,November,Patrícia Nunes,Paraíso,Saúde,Esfigmomanômetro,14,408.02,5712.28,27.6,1577.18,139619.92
+2024-02-14,2024,2,February,Fernanda Rocha,Paraíso,Odontologia,Coroa Zircônia,10,1001.63,10016.25,34.3,3432.96,82009.0
+2024-06-15,2024,6,June,Carlos Souza,Paraíso,Odontologia,Prótese Parcial,13,1998.51,25980.6,38.7,10048.76,121730.85
+2024-05-21,2024,5,May,Patrícia Nunes,Cambuci,Dispositivos Médicos,Monitor Cardíaco,2,11853.39,23706.78,47.4,11246.16,118862.33
+2024-05-03,2024,5,May,Ricardo Alves,Paraíso,Dispositivos Médicos,Bomba Infusão,8,7092.53,56740.24,40.6,23012.89,95511.75
+2024-12-20,2024,12,December,Carlos Souza,Paraíso,Dispositivos Médicos,Desfibrilador Port.,8,18192.5,145540.02,49.1,71405.64,149764.2
+2024-10-08,2024,10,October,Fernanda Rocha,Paraíso,Dispositivos Médicos,Bomba Infusão,5,6440.87,32204.37,41.4,13327.21,130489.9
+2024-06-10,2024,6,June,Ana Lima,Tamboré,Dispositivos Médicos,Monitor Cardíaco,4,11790.96,47163.85,47.9,22593.93,130720.95
+2024-09-25,2024,9,September,Patrícia Nunes,Paraíso,Odontologia,Kit Cirúrgico,5,3309.24,16546.19,36.1,5969.31,80990.39
+2024-09-30,2024,9,September,Carlos Souza,Paraíso,Odontologia,Implante Unitário,9,1150.11,10351.02,44.7,4623.24,124650.88
+2024-09-08,2024,9,September,Ana Lima,Cambuci,Dispositivos Médicos,Desfibrilador Port.,8,17923.37,143386.97,49.0,70323.04,147584.84
+2024-05-09,2024,5,May,Marcos Oliveira,Cambuci,Odontologia,Coroa Zircônia,8,896.52,7172.16,35.8,2565.96,83752.64
+2024-03-17,2024,3,March,Patrícia Nunes,Paraíso,Odontologia,Kit Cirúrgico,2,3540.65,7081.3,37.5,2655.28,121728.88
+2024-11-12,2024,11,November,Carlos Souza,Tamboré,Saúde,Esfigmomanômetro,15,385.53,5782.98,31.2,1802.03,149302.19
+2024-06-05,2024,6,June,Patrícia Nunes,Tamboré,Odontologia,Implante Unitário,13,1129.87,14688.3,40.3,5914.41,126229.97
+2024-03-21,2024,3,March,Carlos Souza,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,3,8014.76,24044.29,44.7,10748.52,121566.78
+2024-05-29,2024,5,May,Ana Lima,Cambuci,Saúde,Nebulizador Compact,12,664.59,7975.09,29.4,2346.84,96339.67
+2024-05-15,2024,5,May,Ricardo Alves,Tamboré,Dispositivos Médicos,Monitor Cardíaco,7,11536.94,80758.59,46.3,37430.68,90429.26
+2024-05-16,2024,5,May,Carlos Souza,Cambuci,Odontologia,Kit Cirúrgico,13,3365.33,43749.27,39.5,17278.23,119844.49
+2024-05-27,2024,5,May,Marcos Oliveira,Cambuci,Saúde,Nebulizador Compact,12,607.91,7294.93,30.6,2234.69,117798.71
+2024-08-12,2024,8,August,Ana Lima,Tamboré,Odontologia,Coroa Zircônia,12,945.18,11342.1,33.5,3799.85,86392.88
+2024-12-11,2024,12,December,Patrícia Nunes,Tamboré,Odontologia,Prótese Parcial,10,1906.9,19068.97,41.5,7920.79,112935.06
+2024-11-29,2024,11,November,Marcos Oliveira,Paraíso,Odontologia,Coroa Zircônia,11,1041.59,11457.51,37.8,4332.58,112900.73
+2024-07-28,2024,7,July,Fernanda Rocha,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,14,8296.27,116147.76,44.5,51650.76,114682.83
+2024-12-05,2024,12,December,Marcos Oliveira,Tamboré,Odontologia,Coroa Zircônia,2,943.65,1887.29,33.9,640.54,147912.93
+2024-07-25,2024,7,July,Patrícia Nunes,Cambuci,Dispositivos Médicos,Bomba Infusão,7,6102.63,42718.43,43.1,18416.19,123584.37
+2024-09-12,2024,9,September,Ricardo Alves,Paraíso,Odontologia,Kit Cirúrgico,5,3534.45,17672.27,40.6,7168.94,110668.13
+2024-12-23,2024,12,December,Marcos Oliveira,Cambuci,Odontologia,Kit Cirúrgico,12,3260.86,39130.38,38.3,14988.91,118657.6
+2024-02-17,2024,2,February,Carlos Souza,Cambuci,Saúde,Oxímetro Pro,11,479.89,5278.82,30.0,1583.13,130162.23
+2024-09-17,2024,9,September,Ricardo Alves,Paraíso,Saúde,Esfigmomanômetro,8,370.01,2960.09,29.3,867.53,106851.02
+2024-11-02,2024,11,November,Patrícia Nunes,Tamboré,Odontologia,Implante Unitário,5,1265.44,6327.21,44.1,2791.97,103791.27
+2024-09-16,2024,9,September,Fernanda Rocha,Cambuci,Saúde,Nebulizador Compact,14,630.78,8830.92,35.0,3090.24,114274.82
+2024-03-17,2024,3,March,Marcos Oliveira,Tamboré,Saúde,Nebulizador Compact,6,626.44,3758.63,32.3,1212.56,111874.12
+2024-06-13,2024,6,June,Carlos Souza,Tamboré,Odontologia,Coroa Zircônia,4,1049.78,4199.11,34.5,1447.21,102272.34
+2024-08-30,2024,8,August,Ricardo Alves,Paraíso,Saúde,Termômetro Digital,8,196.73,1573.87,25.8,405.39,147574.75
+2024-06-18,2024,6,June,Ana Lima,Paraíso,Odontologia,Coroa Zircônia,1,1023.6,1023.6,34.5,352.73,125834.69
+2024-03-20,2024,3,March,Ana Lima,Paraíso,Saúde,Nebulizador Compact,10,643.9,6438.95,32.9,2118.35,139623.57
+2024-12-11,2024,12,December,Patrícia Nunes,Paraíso,Saúde,Esfigmomanômetro,14,393.2,5504.79,29.7,1635.18,96433.92
+2024-12-16,2024,12,December,Fernanda Rocha,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,7,9751.44,68260.09,46.6,31783.41,129272.36
+2024-02-21,2024,2,February,Marcos Oliveira,Cambuci,Dispositivos Médicos,Desfibrilador Port.,15,16304.21,244563.15,48.9,119704.49,83928.35
+2024-07-02,2024,7,July,Fernanda Rocha,Paraíso,Odontologia,Kit Cirúrgico,9,3438.44,30945.93,39.1,12097.01,92603.98
+2024-03-30,2024,3,March,Ana Lima,Tamboré,Saúde,Termômetro Digital,8,194.86,1558.89,25.9,403.11,112280.49
+2024-05-10,2024,5,May,Marcos Oliveira,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,15,9442.25,141633.7,47.4,67144.65,127432.76
+2024-03-21,2024,3,March,Ana Lima,Paraíso,Saúde,Nebulizador Compact,11,677.29,7450.21,33.1,2469.14,111978.51
+2024-06-03,2024,6,June,Carlos Souza,Paraíso,Saúde,Oxímetro Pro,4,439.32,1757.29,29.2,512.32,100711.07
+2024-12-24,2024,12,December,Fernanda Rocha,Cambuci,Dispositivos Médicos,Bomba Infusão,5,6040.85,30204.26,45.2,13649.43,134481.81
+2024-01-26,2024,1,January,Patrícia Nunes,Tamboré,Saúde,Nebulizador Compact,13,657.06,8541.76,32.6,2788.23,104662.47
+2024-11-21,2024,11,November,Carlos Souza,Tamboré,Saúde,Termômetro Digital,11,165.5,1820.48,28.8,523.66,82759.58
+2024-08-13,2024,8,August,Ana Lima,Tamboré,Saúde,Termômetro Digital,2,194.75,389.49,27.0,105.01,109085.22
+2024-04-12,2024,4,April,Carlos Souza,Tamboré,Saúde,Nebulizador Compact,14,578.4,8097.65,34.5,2792.42,146093.15
+2024-05-31,2024,5,May,Ricardo Alves,Paraíso,Odontologia,Coroa Zircônia,2,909.59,1819.18,37.8,687.63,140209.84
+2024-12-11,2024,12,December,Marcos Oliveira,Tamboré,Saúde,Oxímetro Pro,13,440.51,5726.65,28.6,1637.06,88651.21
+2024-07-07,2024,7,July,Ricardo Alves,Tamboré,Dispositivos Médicos,Desfibrilador Port.,10,17571.69,175716.92,50.8,89319.19,106003.15
+2024-12-11,2024,12,December,Carlos Souza,Paraíso,Odontologia,Prótese Parcial,15,2146.23,32193.52,40.9,13162.61,124478.27
+2024-08-25,2024,8,August,Ricardo Alves,Paraíso,Dispositivos Médicos,Bomba Infusão,2,6217.3,12434.6,45.7,5679.82,101305.52
+2024-09-09,2024,9,September,Ana Lima,Cambuci,Odontologia,Kit Cirúrgico,7,3467.55,24272.85,39.0,9471.97,132019.81
+2024-10-03,2024,10,October,Marcos Oliveira,Tamboré,Dispositivos Médicos,Monitor Cardíaco,15,12287.21,184308.17,45.6,84033.71,114254.29
+2024-07-27,2024,7,July,Fernanda Rocha,Cambuci,Dispositivos Médicos,Desfibrilador Port.,4,17796.18,71184.72,52.7,37516.72,139881.51
+2024-02-20,2024,2,February,Ricardo Alves,Paraíso,Dispositivos Médicos,Desfibrilador Port.,1,17633.3,17633.3,48.1,8488.47,88551.18
+2024-08-20,2024,8,August,Ana Lima,Tamboré,Odontologia,Implante Unitário,1,1268.83,1268.83,40.5,513.39,88814.67
+2024-10-16,2024,10,October,Carlos Souza,Cambuci,Dispositivos Médicos,Monitor Cardíaco,10,11789.88,117898.78,50.2,59206.61,102999.17
+2024-03-16,2024,3,March,Patrícia Nunes,Cambuci,Saúde,Termômetro Digital,3,181.45,544.34,29.8,162.16,87694.84
+2024-01-14,2024,1,January,Carlos Souza,Cambuci,Saúde,Termômetro Digital,10,173.66,1736.56,26.0,452.3,83667.93
+2024-08-03,2024,8,August,Patrícia Nunes,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,8,8807.93,70463.44,44.2,31125.28,121556.62
+2024-08-19,2024,8,August,Patrícia Nunes,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,12,9404.14,112849.73,47.2,53267.2,116501.59
+2024-08-22,2024,8,August,Ricardo Alves,Cambuci,Odontologia,Coroa Zircônia,14,960.72,13450.04,36.1,4857.7,114318.82
+2024-08-15,2024,8,August,Ana Lima,Cambuci,Saúde,Termômetro Digital,2,166.54,333.09,28.7,95.75,120975.53
+2024-12-30,2024,12,December,Fernanda Rocha,Paraíso,Dispositivos Médicos,Desfibrilador Port.,8,18019.98,144159.87,49.6,71476.19,135516.73
+2024-02-28,2024,2,February,Ricardo Alves,Tamboré,Dispositivos Médicos,Monitor Cardíaco,7,12378.89,86652.21,46.4,40181.46,103725.21
+2024-08-20,2024,8,August,Marcos Oliveira,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,6,8769.64,52617.84,46.0,24199.29,106201.07
+2024-03-19,2024,3,March,Ricardo Alves,Paraíso,Odontologia,Implante Unitário,14,1100.49,15406.82,41.6,6407.89,132121.23
+2024-07-09,2024,7,July,Carlos Souza,Tamboré,Odontologia,Prótese Parcial,11,1941.34,21354.71,39.1,8354.3,126573.84
+2024-08-04,2024,8,August,Ricardo Alves,Cambuci,Saúde,Nebulizador Compact,6,570.85,3425.08,32.0,1097.55,90831.11
+2024-09-03,2024,9,September,Carlos Souza,Cambuci,Saúde,Nebulizador Compact,2,652.56,1305.13,32.4,423.44,136505.5
+2024-10-14,2024,10,October,Patrícia Nunes,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,10,9663.77,96637.7,47.0,45397.26,98721.34
+2024-04-02,2024,4,April,Fernanda Rocha,Tamboré,Saúde,Nebulizador Compact,6,558.76,3352.54,34.2,1147.21,119642.48
+2024-07-24,2024,7,July,Ana Lima,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,2,9338.08,18676.16,43.3,8085.06,109388.27
+2024-06-23,2024,6,June,Carlos Souza,Paraíso,Saúde,Nebulizador Compact,13,674.73,8771.55,32.6,2857.54,141833.95
+2024-03-20,2024,3,March,Carlos Souza,Tamboré,Odontologia,Implante Unitário,5,1186.35,5931.74,41.5,2464.29,122495.32
+2024-07-31,2024,7,July,Fernanda Rocha,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,6,8775.25,52651.48,43.7,23008.42,127494.04
+2024-09-06,2024,9,September,Patrícia Nunes,Tamboré,Saúde,Oxímetro Pro,4,440.57,1762.29,30.6,539.19,80538.1
+2024-06-03,2024,6,June,Carlos Souza,Cambuci,Saúde,Nebulizador Compact,6,572.88,3437.27,32.0,1099.39,110145.85
+2024-03-07,2024,3,March,Marcos Oliveira,Tamboré,Dispositivos Médicos,Monitor Cardíaco,9,12646.81,113821.28,49.0,55781.86,104791.7
+2024-07-22,2024,7,July,Ricardo Alves,Cambuci,Saúde,Oxímetro Pro,8,487.9,3903.24,32.2,1255.78,120303.14
+2024-10-20,2024,10,October,Marcos Oliveira,Tamboré,Dispositivos Médicos,Bomba Infusão,5,6184.33,30921.66,40.1,12407.36,102733.77
+2024-11-12,2024,11,November,Marcos Oliveira,Tamboré,Saúde,Oxímetro Pro,7,481.0,3367.03,28.5,958.25,121220.99
+2024-09-25,2024,9,September,Ana Lima,Paraíso,Saúde,Nebulizador Compact,4,599.3,2397.2,30.0,719.37,115733.83
+2024-02-28,2024,2,February,Patrícia Nunes,Tamboré,Odontologia,Prótese Parcial,6,2195.5,13173.0,41.9,5521.29,137052.59
+2024-04-30,2024,4,April,Ana Lima,Cambuci,Saúde,Termômetro Digital,3,183.69,551.06,29.6,162.9,125885.63
+2024-03-31,2024,3,March,Ricardo Alves,Paraíso,Saúde,Esfigmomanômetro,11,423.08,4653.92,29.4,1367.65,124470.88
+2024-11-15,2024,11,November,Fernanda Rocha,Tamboré,Saúde,Termômetro Digital,8,164.46,1315.67,27.7,363.83,101197.43
+2024-05-20,2024,5,May,Patrícia Nunes,Cambuci,Saúde,Oxímetro Pro,5,446.56,2232.78,27.2,607.89,105811.63
+2024-05-26,2024,5,May,Ana Lima,Tamboré,Odontologia,Coroa Zircônia,8,995.74,7965.96,37.7,3005.19,131724.47
+2024-01-22,2024,1,January,Marcos Oliveira,Tamboré,Dispositivos Médicos,Monitor Cardíaco,6,12762.51,76575.09,48.0,36762.33,147040.57
+2024-08-18,2024,8,August,Ana Lima,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,9,9160.11,82440.96,42.2,34818.82,129533.52
+2024-08-12,2024,8,August,Patrícia Nunes,Tamboré,Dispositivos Médicos,Monitor Cardíaco,6,12182.13,73092.78,46.7,34132.4,108613.86
+2024-06-22,2024,6,June,Ricardo Alves,Tamboré,Odontologia,Prótese Parcial,2,2028.47,4056.94,40.3,1636.89,107059.49
+2024-05-09,2024,5,May,Ricardo Alves,Tamboré,Dispositivos Médicos,Monitor Cardíaco,6,11453.75,68722.53,49.0,33661.44,144172.25
+2024-06-07,2024,6,June,Ricardo Alves,Tamboré,Dispositivos Médicos,Bomba Infusão,3,6827.36,20482.07,45.6,9345.56,101670.73
+2024-07-11,2024,7,July,Ricardo Alves,Paraíso,Odontologia,Implante Unitário,11,1240.91,13650.0,42.1,5739.95,81276.14
+2024-06-07,2024,6,June,Carlos Souza,Cambuci,Saúde,Esfigmomanômetro,4,368.67,1474.68,26.8,395.59,85401.56
+2024-02-21,2024,2,February,Patrícia Nunes,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,11,8609.44,94703.85,46.6,44129.95,89173.43
+2024-07-11,2024,7,July,Carlos Souza,Cambuci,Odontologia,Kit Cirúrgico,12,3456.37,41476.46,37.5,15539.22,127345.4
+2024-05-01,2024,5,May,Marcos Oliveira,Tamboré,Saúde,Esfigmomanômetro,4,392.65,1570.61,27.9,437.52,136603.67
+2024-08-28,2024,8,August,Carlos Souza,Paraíso,Dispositivos Médicos,Bomba Infusão,8,7061.05,56488.38,44.7,25232.65,115203.47
+2024-08-02,2024,8,August,Carlos Souza,Cambuci,Dispositivos Médicos,Monitor Cardíaco,14,11875.01,166250.11,48.8,81208.31,141188.19
+2024-10-10,2024,10,October,Ana Lima,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,5,8159.3,40796.49,43.0,17526.94,111452.35
+2024-09-19,2024,9,September,Carlos Souza,Paraíso,Odontologia,Kit Cirúrgico,14,3465.79,48521.05,37.1,18000.1,81866.91
+2024-01-28,2024,1,January,Marcos Oliveira,Tamboré,Saúde,Termômetro Digital,7,197.8,1384.62,27.2,377.3,81973.13
+2024-02-20,2024,2,February,Ricardo Alves,Tamboré,Saúde,Termômetro Digital,3,163.38,490.14,30.5,149.51,113071.85
+2024-03-12,2024,3,March,Ricardo Alves,Paraíso,Saúde,Oxímetro Pro,15,412.13,6181.95,28.5,1764.05,138447.42
+2024-10-07,2024,10,October,Ricardo Alves,Tamboré,Dispositivos Médicos,Bomba Infusão,2,7070.07,14140.14,41.4,5857.67,88529.38
+2024-05-02,2024,5,May,Marcos Oliveira,Tamboré,Dispositivos Médicos,Bomba Infusão,2,6178.55,12357.1,45.4,5613.94,121771.73
+2024-01-09,2024,1,January,Ricardo Alves,Tamboré,Dispositivos Médicos,Monitor Cardíaco,12,11608.94,139307.31,47.6,66276.06,123036.67
+2024-05-03,2024,5,May,Patrícia Nunes,Paraíso,Odontologia,Implante Unitário,9,1313.92,11825.25,39.4,4659.87,116824.16
+2024-09-16,2024,9,September,Patrícia Nunes,Tamboré,Odontologia,Coroa Zircônia,14,974.15,13638.05,35.8,4884.33,148672.76
+2024-05-09,2024,5,May,Ricardo Alves,Cambuci,Saúde,Oxímetro Pro,6,426.7,2560.21,30.9,792.2,87256.47
+2024-10-24,2024,10,October,Ricardo Alves,Paraíso,Odontologia,Implante Unitário,6,1211.04,7266.26,43.9,3188.51,92256.24
+2024-12-16,2024,12,December,Marcos Oliveira,Tamboré,Saúde,Termômetro Digital,13,166.85,2169.11,29.3,635.47,146052.36
+2024-01-19,2024,1,January,Fernanda Rocha,Cambuci,Odontologia,Kit Cirúrgico,15,3179.33,47690.01,40.6,19362.25,116076.85
+2024-10-05,2024,10,October,Marcos Oliveira,Paraíso,Odontologia,Kit Cirúrgico,5,3399.88,16999.41,39.7,6746.22,140605.88
+2024-06-18,2024,6,June,Fernanda Rocha,Cambuci,Saúde,Esfigmomanômetro,15,382.2,5733.03,28.6,1641.85,146953.51
+2024-06-22,2024,6,June,Carlos Souza,Paraíso,Dispositivos Médicos,Bomba Infusão,6,7268.58,43611.46,43.1,18803.37,136080.37
+2024-08-05,2024,8,August,Ana Lima,Paraíso,Dispositivos Médicos,Monitor Cardíaco,9,11984.42,107859.74,45.6,49200.85,102954.39
+2024-05-31,2024,5,May,Fernanda Rocha,Paraíso,Dispositivos Médicos,Bomba Infusão,3,6954.28,20862.85,42.1,8785.2,82964.86
+2024-06-29,2024,6,June,Patrícia Nunes,Paraíso,Saúde,Oxímetro Pro,2,465.41,930.81,29.4,274.0,115916.02
+2024-12-13,2024,12,December,Carlos Souza,Cambuci,Odontologia,Coroa Zircônia,1,906.74,906.74,33.4,303.0,125161.4
+2024-07-04,2024,7,July,Marcos Oliveira,Tamboré,Odontologia,Kit Cirúrgico,11,3464.95,38114.4,37.2,14188.39,111075.75
+2024-02-09,2024,2,February,Patrícia Nunes,Cambuci,Dispositivos Médicos,Desfibrilador Port.,7,17331.79,121322.51,48.7,59050.26,147236.4
+2024-01-14,2024,1,January,Ricardo Alves,Cambuci,Saúde,Esfigmomanômetro,15,394.81,5922.16,27.6,1632.78,98220.28
+2024-08-16,2024,8,August,Carlos Souza,Tamboré,Saúde,Esfigmomanômetro,4,360.57,1442.26,31.1,448.79,111642.99
+2024-08-15,2024,8,August,Ana Lima,Tamboré,Saúde,Nebulizador Compact,12,566.05,6792.63,32.3,2190.83,142393.22
+2024-03-21,2024,3,March,Ricardo Alves,Tamboré,Dispositivos Médicos,Monitor Cardíaco,13,12153.73,157998.5,46.3,73225.12,148959.28
+2024-03-12,2024,3,March,Carlos Souza,Paraíso,Odontologia,Prótese Parcial,9,2130.36,19173.21,39.8,7631.79,148810.84
+2024-03-07,2024,3,March,Patrícia Nunes,Cambuci,Odontologia,Prótese Parcial,7,2309.83,16168.81,41.3,6679.86,116798.7
+2024-07-28,2024,7,July,Patrícia Nunes,Cambuci,Odontologia,Prótese Parcial,11,1921.15,21132.64,39.8,8409.73,116215.2
+2024-03-06,2024,3,March,Patrícia Nunes,Tamboré,Dispositivos Médicos,Monitor Cardíaco,13,13665.66,177653.6,47.6,84555.49,143749.86
+2024-01-29,2024,1,January,Ana Lima,Tamboré,Odontologia,Prótese Parcial,3,1958.03,5874.08,42.6,2502.85,95782.92
+2024-09-22,2024,9,September,Fernanda Rocha,Cambuci,Saúde,Termômetro Digital,11,196.43,2160.72,26.6,575.76,123751.57
+2024-11-10,2024,11,November,Patrícia Nunes,Cambuci,Dispositivos Médicos,Monitor Cardíaco,10,13604.02,136040.17,45.9,62476.67,126111.3
+2024-11-05,2024,11,November,Fernanda Rocha,Tamboré,Odontologia,Implante Unitário,2,1090.91,2181.82,42.8,934.88,120373.99
+2024-11-29,2024,11,November,Carlos Souza,Tamboré,Saúde,Oxímetro Pro,8,485.01,3880.08,30.3,1174.63,124933.51
+2024-06-03,2024,6,June,Marcos Oliveira,Cambuci,Dispositivos Médicos,Bomba Infusão,5,6637.75,33188.75,44.1,14646.75,91065.63
+2024-07-31,2024,7,July,Marcos Oliveira,Paraíso,Odontologia,Prótese Parcial,10,1950.34,19503.41,42.2,8224.38,102352.15
+2024-06-25,2024,6,June,Marcos Oliveira,Cambuci,Saúde,Oxímetro Pro,6,426.76,2560.54,27.7,710.17,111471.72
+2024-03-13,2024,3,March,Ana Lima,Cambuci,Saúde,Esfigmomanômetro,14,399.0,5585.99,27.5,1535.57,140571.53
+2024-03-22,2024,3,March,Fernanda Rocha,Tamboré,Dispositivos Médicos,Desfibrilador Port.,4,18947.24,75788.95,50.0,37886.59,116030.74
+2024-09-12,2024,9,September,Fernanda Rocha,Paraíso,Odontologia,Implante Unitário,7,1201.31,8409.15,44.8,3767.31,95060.11
+2024-06-29,2024,6,June,Ana Lima,Cambuci,Saúde,Esfigmomanômetro,10,419.82,4198.22,29.9,1256.34,112941.08
+2024-10-01,2024,10,October,Ana Lima,Cambuci,Saúde,Termômetro Digital,15,171.52,2572.82,27.2,699.67,108227.79
+2024-01-24,2024,1,January,Marcos Oliveira,Cambuci,Dispositivos Médicos,Monitor Cardíaco,6,12633.06,75798.34,45.4,34443.67,115297.89
+2024-10-08,2024,10,October,Fernanda Rocha,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,3,9745.65,29236.94,44.4,12970.51,135642.81
+2024-06-22,2024,6,June,Patrícia Nunes,Paraíso,Odontologia,Kit Cirúrgico,10,3506.39,35063.86,38.0,13324.43,83171.23
+2024-03-11,2024,3,March,Ricardo Alves,Paraíso,Saúde,Esfigmomanômetro,3,398.29,1194.86,29.1,347.62,102957.61
+2024-11-09,2024,11,November,Fernanda Rocha,Cambuci,Saúde,Nebulizador Compact,10,599.71,5997.1,34.0,2037.2,117263.79
+2024-12-28,2024,12,December,Patrícia Nunes,Paraíso,Saúde,Oxímetro Pro,6,434.81,2608.87,27.7,721.55,109157.82
+2024-06-06,2024,6,June,Ricardo Alves,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,10,8854.77,88547.71,47.8,42327.95,134803.28
+2024-10-23,2024,10,October,Patrícia Nunes,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,10,8865.2,88651.99,45.1,40022.29,130482.8
+2024-07-13,2024,7,July,Carlos Souza,Tamboré,Odontologia,Implante Unitário,10,1307.57,13075.69,39.7,5185.74,81325.62
+2024-06-09,2024,6,June,Marcos Oliveira,Cambuci,Saúde,Termômetro Digital,7,180.07,1260.46,28.7,361.36,113012.38
+2024-02-01,2024,2,February,Ricardo Alves,Cambuci,Dispositivos Médicos,Monitor Cardíaco,9,12062.62,108563.61,49.0,53167.25,116783.4
+2024-06-09,2024,6,June,Carlos Souza,Paraíso,Dispositivos Médicos,Desfibrilador Port.,9,17475.43,157278.9,51.6,81206.15,130464.72
+2024-11-25,2024,11,November,Ricardo Alves,Paraíso,Dispositivos Médicos,Bomba Infusão,4,7312.83,29251.33,41.7,12190.21,100894.94
+2024-06-01,2024,6,June,Fernanda Rocha,Tamboré,Odontologia,Coroa Zircônia,6,976.04,5856.25,35.4,2070.94,145413.98
+2024-05-20,2024,5,May,Fernanda Rocha,Cambuci,Dispositivos Médicos,Bomba Infusão,15,7343.42,110151.23,44.9,49469.21,146822.62
+2024-03-15,2024,3,March,Fernanda Rocha,Cambuci,Saúde,Oxímetro Pro,6,488.16,2928.97,30.9,906.1,132313.69
+2024-04-19,2024,4,April,Carlos Souza,Tamboré,Saúde,Nebulizador Compact,3,571.54,1714.63,33.4,573.46,96749.74
+2024-01-26,2024,1,January,Ricardo Alves,Tamboré,Odontologia,Kit Cirúrgico,1,3220.14,3220.14,37.0,1190.86,113068.27
+2024-12-14,2024,12,December,Carlos Souza,Cambuci,Dispositivos Médicos,Monitor Cardíaco,7,12882.23,90175.62,50.3,45343.8,113298.98
+2024-11-29,2024,11,November,Carlos Souza,Paraíso,Saúde,Nebulizador Compact,11,565.34,6218.7,33.6,2090.25,125660.91
+2024-04-28,2024,4,April,Patrícia Nunes,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,15,9650.22,144753.27,44.5,64425.79,138632.34
+2024-01-19,2024,1,January,Marcos Oliveira,Paraíso,Odontologia,Prótese Parcial,15,1905.74,28586.04,38.8,11088.63,122194.81
+2024-06-20,2024,6,June,Fernanda Rocha,Paraíso,Dispositivos Médicos,Bomba Infusão,15,7287.67,109315.07,45.1,49308.05,112761.45
+2024-04-08,2024,4,April,Ana Lima,Paraíso,Odontologia,Coroa Zircônia,11,932.42,10256.66,33.1,3396.72,131563.25
+2024-05-31,2024,5,May,Patrícia Nunes,Tamboré,Odontologia,Kit Cirúrgico,10,3749.3,37493.03,40.4,15140.53,137889.29
+2024-09-20,2024,9,September,Fernanda Rocha,Cambuci,Saúde,Oxímetro Pro,3,493.35,1480.06,29.9,442.02,145507.78
+2024-01-04,2024,1,January,Fernanda Rocha,Paraíso,Odontologia,Coroa Zircônia,13,934.33,12146.3,34.0,4127.04,120772.25
+2024-10-20,2024,10,October,Ana Lima,Paraíso,Dispositivos Médicos,Desfibrilador Port.,12,17050.69,204608.27,51.0,104363.96,112577.65
+2024-03-22,2024,3,March,Marcos Oliveira,Tamboré,Dispositivos Médicos,Desfibrilador Port.,12,16622.7,199472.36,52.5,104716.57,100652.63
+2024-11-10,2024,11,November,Carlos Souza,Cambuci,Odontologia,Coroa Zircônia,3,971.18,2913.53,37.9,1105.19,106153.74
+2024-12-25,2024,12,December,Patrícia Nunes,Paraíso,Dispositivos Médicos,Monitor Cardíaco,13,11868.66,154292.63,49.5,76418.73,141119.45
+2024-02-11,2024,2,February,Patrícia Nunes,Paraíso,Dispositivos Médicos,Desfibrilador Port.,2,19502.08,39004.16,47.7,18594.55,138014.18
+2024-09-15,2024,9,September,Carlos Souza,Tamboré,Dispositivos Médicos,Monitor Cardíaco,3,12070.29,36210.88,48.1,17425.42,88136.8
+2024-04-15,2024,4,April,Ricardo Alves,Tamboré,Saúde,Oxímetro Pro,15,450.93,6764.01,31.9,2154.48,111740.26
+2024-09-19,2024,9,September,Marcos Oliveira,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,9,8833.03,79497.3,46.8,37237.72,130629.61
+2024-07-21,2024,7,July,Fernanda Rocha,Cambuci,Dispositivos Médicos,Monitor Cardíaco,10,11432.57,114325.74,47.5,54352.95,129026.94
+2024-10-04,2024,10,October,Ana Lima,Cambuci,Saúde,Oxímetro Pro,5,441.8,2208.99,31.6,698.35,133607.94
+2024-11-26,2024,11,November,Marcos Oliveira,Paraíso,Saúde,Esfigmomanômetro,14,422.53,5915.49,28.3,1672.01,85617.5
+2024-12-04,2024,12,December,Patrícia Nunes,Cambuci,Dispositivos Médicos,Desfibrilador Port.,2,16842.51,33685.01,50.2,16917.81,117018.98
+2024-04-24,2024,4,April,Ana Lima,Cambuci,Saúde,Esfigmomanômetro,11,407.09,4477.98,28.5,1278.23,106549.35
+2024-04-27,2024,4,April,Carlos Souza,Paraíso,Saúde,Termômetro Digital,5,168.79,843.93,30.3,255.3,133584.3
+2024-01-17,2024,1,January,Ricardo Alves,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,4,8376.83,33507.3,42.6,14275.91,82350.34
+2024-11-02,2024,11,November,Ricardo Alves,Tamboré,Odontologia,Kit Cirúrgico,12,3180.97,38171.59,37.6,14365.41,117783.19
+2024-01-29,2024,1,January,Carlos Souza,Tamboré,Saúde,Termômetro Digital,14,194.99,2729.86,28.5,776.83,120423.24
+2024-12-10,2024,12,December,Fernanda Rocha,Cambuci,Saúde,Termômetro Digital,11,180.77,1988.42,27.5,546.44,99260.77
+2024-10-12,2024,10,October,Patrícia Nunes,Tamboré,Odontologia,Coroa Zircônia,9,979.14,8812.28,37.8,3334.02,145911.05
+2024-12-09,2024,12,December,Marcos Oliveira,Tamboré,Saúde,Esfigmomanômetro,7,362.64,2538.47,28.3,717.34,132809.13
+2024-08-30,2024,8,August,Carlos Souza,Cambuci,Saúde,Termômetro Digital,13,178.67,2322.7,25.3,588.71,108887.42
+2024-08-01,2024,8,August,Patrícia Nunes,Tamboré,Odontologia,Coroa Zircônia,4,931.98,3727.92,34.0,1266.81,85534.93
+2024-08-18,2024,8,August,Fernanda Rocha,Cambuci,Dispositivos Médicos,Monitor Cardíaco,1,11921.15,11921.15,49.0,5846.37,122204.54
+2024-02-07,2024,2,February,Carlos Souza,Tamboré,Dispositivos Médicos,Monitor Cardíaco,8,11772.22,94177.78,50.4,47505.34,101223.16
+2024-01-08,2024,1,January,Carlos Souza,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,12,9789.24,117470.86,44.9,52713.32,96981.52
+2024-11-05,2024,11,November,Ricardo Alves,Cambuci,Saúde,Termômetro Digital,9,173.58,1562.2,26.7,417.08,112637.53
+2024-11-28,2024,11,November,Fernanda Rocha,Paraíso,Saúde,Nebulizador Compact,9,667.47,6007.22,31.8,1910.06,136197.16
+2024-08-28,2024,8,August,Fernanda Rocha,Cambuci,Saúde,Nebulizador Compact,7,563.67,3945.68,34.2,1348.81,131887.67
+2024-01-09,2024,1,January,Fernanda Rocha,Tamboré,Dispositivos Médicos,Bomba Infusão,5,6234.23,31171.16,42.0,13085.4,106588.78
+2024-05-05,2024,5,May,Marcos Oliveira,Tamboré,Dispositivos Médicos,Desfibrilador Port.,5,18948.1,94740.49,49.9,47305.56,130649.06
+2024-09-08,2024,9,September,Marcos Oliveira,Cambuci,Dispositivos Médicos,Desfibrilador Port.,3,16703.85,50111.55,50.3,25195.73,92883.34
+2024-10-04,2024,10,October,Ricardo Alves,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,14,9517.12,133239.7,47.7,63516.87,126775.09
+2024-01-04,2024,1,January,Marcos Oliveira,Cambuci,Dispositivos Médicos,Monitor Cardíaco,2,13017.92,26035.85,45.1,11730.41,115401.3
+2024-07-10,2024,7,July,Ana Lima,Tamboré,Dispositivos Médicos,Bomba Infusão,11,6683.72,73520.97,40.0,29437.56,118615.05
+2024-01-07,2024,1,January,Ana Lima,Tamboré,Dispositivos Médicos,Desfibrilador Port.,9,19718.93,177470.33,47.1,83593.59,136921.01
+2024-12-11,2024,12,December,Marcos Oliveira,Cambuci,Odontologia,Implante Unitário,9,1115.74,10041.62,40.2,4031.87,116851.92
+2024-06-30,2024,6,June,Fernanda Rocha,Paraíso,Odontologia,Prótese Parcial,7,2082.78,14579.45,38.5,5607.15,128806.54
+2024-06-02,2024,6,June,Ricardo Alves,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,2,8731.4,17462.79,44.3,7729.56,113320.36
+2024-11-22,2024,11,November,Ana Lima,Tamboré,Odontologia,Implante Unitário,8,1282.88,10263.03,42.9,4399.7,103188.94
+2024-02-18,2024,2,February,Patrícia Nunes,Cambuci,Odontologia,Kit Cirúrgico,15,3757.68,56365.23,40.3,22729.46,113285.02
+2024-01-24,2024,1,January,Ana Lima,Tamboré,Saúde,Oxímetro Pro,3,488.59,1465.77,28.9,423.42,147302.84
+2024-10-27,2024,10,October,Carlos Souza,Tamboré,Saúde,Oxímetro Pro,5,419.62,2098.1,28.4,596.76,138425.54
+2024-07-18,2024,7,July,Ricardo Alves,Tamboré,Saúde,Esfigmomanômetro,13,408.7,5313.1,30.7,1633.41,128251.74
+2024-02-10,2024,2,February,Patrícia Nunes,Tamboré,Saúde,Oxímetro Pro,2,444.34,888.68,32.0,284.66,103841.49
+2024-11-10,2024,11,November,Patrícia Nunes,Paraíso,Saúde,Oxímetro Pro,11,429.6,4725.59,33.0,1557.34,114342.24
+2024-07-01,2024,7,July,Patrícia Nunes,Paraíso,Saúde,Termômetro Digital,11,183.09,2014.01,27.3,549.43,134051.72
+2024-05-31,2024,5,May,Carlos Souza,Tamboré,Odontologia,Implante Unitário,5,1117.01,5585.07,43.3,2416.66,124373.06
+2024-07-18,2024,7,July,Fernanda Rocha,Paraíso,Odontologia,Implante Unitário,1,1306.31,1306.31,41.7,544.32,133294.25
+2024-02-22,2024,2,February,Carlos Souza,Cambuci,Odontologia,Coroa Zircônia,8,991.17,7929.35,35.1,2781.19,87230.5
+2024-02-15,2024,2,February,Fernanda Rocha,Tamboré,Odontologia,Prótese Parcial,14,2051.8,28725.2,38.8,11131.33,107145.97
+2024-02-13,2024,2,February,Ricardo Alves,Tamboré,Odontologia,Kit Cirúrgico,11,3416.51,37581.64,35.8,13466.64,101079.19
+2024-09-09,2024,9,September,Carlos Souza,Cambuci,Odontologia,Coroa Zircônia,5,964.54,4822.68,34.9,1683.38,85384.5
+2024-05-08,2024,5,May,Carlos Souza,Tamboré,Dispositivos Médicos,Bomba Infusão,10,6856.34,68563.36,42.7,29308.9,89484.27
+2024-01-04,2024,1,January,Marcos Oliveira,Paraíso,Dispositivos Médicos,Bomba Infusão,13,7185.35,93409.49,42.6,39831.06,110143.14
+2024-11-29,2024,11,November,Patrícia Nunes,Cambuci,Saúde,Nebulizador Compact,10,675.46,6754.63,30.2,2040.24,101992.83
+2024-07-22,2024,7,July,Fernanda Rocha,Paraíso,Dispositivos Médicos,Bomba Infusão,10,7077.85,70778.46,42.0,29695.33,99621.01
+2024-07-20,2024,7,July,Fernanda Rocha,Cambuci,Dispositivos Médicos,Monitor Cardíaco,10,13743.16,137431.62,46.1,63327.89,133733.25
+2024-01-14,2024,1,January,Ricardo Alves,Paraíso,Dispositivos Médicos,Monitor Cardíaco,8,13244.21,105953.71,50.0,52963.81,84841.11
+2024-07-28,2024,7,July,Ricardo Alves,Paraíso,Odontologia,Prótese Parcial,4,1996.13,7984.51,37.9,3028.11,109618.96
+2024-07-12,2024,7,July,Ana Lima,Paraíso,Dispositivos Médicos,Bomba Infusão,10,6567.08,65670.79,43.0,28264.5,144427.45
+2024-12-20,2024,12,December,Marcos Oliveira,Tamboré,Odontologia,Prótese Parcial,12,2266.11,27193.33,40.2,10937.55,124672.63
+2024-02-13,2024,2,February,Ana Lima,Cambuci,Dispositivos Médicos,Desfibrilador Port.,3,18529.2,55587.6,47.3,26273.91,148852.57
+2024-12-12,2024,12,December,Ricardo Alves,Paraíso,Saúde,Esfigmomanômetro,2,351.82,703.65,27.6,193.87,115747.34
+2024-09-22,2024,9,September,Patrícia Nunes,Tamboré,Dispositivos Médicos,Monitor Cardíaco,8,12185.3,97482.39,47.8,46575.51,127568.88
+2024-12-19,2024,12,December,Patrícia Nunes,Cambuci,Saúde,Oxímetro Pro,8,414.41,3315.28,29.5,977.87,147320.95
+2024-02-29,2024,2,February,Ricardo Alves,Cambuci,Saúde,Nebulizador Compact,6,614.46,3686.77,30.2,1114.92,113804.82
+2024-08-31,2024,8,August,Ana Lima,Paraíso,Dispositivos Médicos,Bomba Infusão,6,6120.01,36720.08,40.3,14786.48,129754.53
+2024-01-12,2024,1,January,Fernanda Rocha,Tamboré,Odontologia,Kit Cirúrgico,15,3838.73,57580.95,36.5,20996.02,92211.73
+2024-03-22,2024,3,March,Fernanda Rocha,Tamboré,Saúde,Esfigmomanômetro,4,413.22,1652.9,29.8,492.21,93047.08
+2024-12-02,2024,12,December,Marcos Oliveira,Paraíso,Odontologia,Kit Cirúrgico,8,3564.54,28516.34,37.3,10646.01,129331.49
+2024-04-15,2024,4,April,Fernanda Rocha,Tamboré,Odontologia,Implante Unitário,13,1289.28,16760.58,40.1,6724.64,102818.94
+2024-08-22,2024,8,August,Ana Lima,Paraíso,Dispositivos Médicos,Bomba Infusão,9,7324.33,65918.95,41.9,27607.14,107204.75
+2024-07-19,2024,7,July,Patrícia Nunes,Cambuci,Saúde,Nebulizador Compact,14,614.77,8606.85,30.0,2585.08,127151.22
+2024-06-01,2024,6,June,Patrícia Nunes,Tamboré,Odontologia,Kit Cirúrgico,6,3232.5,19395.02,36.8,7143.63,92813.12
+2024-12-21,2024,12,December,Carlos Souza,Tamboré,Saúde,Esfigmomanômetro,10,361.75,3617.54,28.3,1023.85,93002.76
+2024-11-21,2024,11,November,Patrícia Nunes,Tamboré,Dispositivos Médicos,Monitor Cardíaco,9,11667.16,105004.47,46.7,49071.75,93096.9
+2024-08-18,2024,8,August,Patrícia Nunes,Cambuci,Saúde,Oxímetro Pro,8,417.29,3338.3,31.9,1064.63,147468.04
+2024-09-15,2024,9,September,Ricardo Alves,Paraíso,Saúde,Esfigmomanômetro,7,406.39,2844.74,28.7,815.39,91707.74
+2024-10-16,2024,10,October,Ana Lima,Cambuci,Saúde,Oxímetro Pro,5,425.24,2126.18,28.7,610.89,134651.81
+2024-10-16,2024,10,October,Ricardo Alves,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,10,8213.29,82132.88,46.7,38315.55,137629.8
+2024-07-06,2024,7,July,Patrícia Nunes,Cambuci,Dispositivos Médicos,Bomba Infusão,9,6322.85,56905.62,42.6,24213.87,131519.21
+2024-11-30,2024,11,November,Carlos Souza,Paraíso,Odontologia,Coroa Zircônia,5,950.32,4751.61,36.9,1753.36,110734.89
+2024-03-01,2024,3,March,Carlos Souza,Cambuci,Dispositivos Médicos,Desfibrilador Port.,14,18758.71,262622.0,50.8,133403.11,91618.71
+2024-03-12,2024,3,March,Carlos Souza,Cambuci,Odontologia,Prótese Parcial,9,2008.06,18072.5,40.2,7271.04,102655.75
+2024-12-26,2024,12,December,Fernanda Rocha,Paraíso,Dispositivos Médicos,Desfibrilador Port.,14,18051.89,252726.52,52.4,132431.05,137062.66
+2024-03-10,2024,3,March,Marcos Oliveira,Cambuci,Saúde,Termômetro Digital,12,193.18,2318.15,26.5,614.26,129797.64
+2024-05-06,2024,5,May,Ricardo Alves,Paraíso,Saúde,Termômetro Digital,10,184.77,1847.66,28.8,531.51,106262.06
+2024-02-08,2024,2,February,Ricardo Alves,Cambuci,Saúde,Nebulizador Compact,12,674.11,8089.27,31.2,2525.02,146517.79
+2024-06-16,2024,6,June,Patrícia Nunes,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,12,9740.43,116885.13,45.8,53543.96,128810.23
+2024-02-02,2024,2,February,Patrícia Nunes,Paraíso,Odontologia,Coroa Zircônia,14,923.52,12929.32,33.6,4345.7,137984.05
+2024-06-21,2024,6,June,Patrícia Nunes,Tamboré,Odontologia,Coroa Zircônia,13,949.37,12341.85,36.1,4454.83,83388.65
+2024-02-20,2024,2,February,Ricardo Alves,Paraíso,Odontologia,Implante Unitário,15,1285.84,19287.55,41.6,8032.82,80047.32
+2024-08-07,2024,8,August,Carlos Souza,Tamboré,Odontologia,Prótese Parcial,3,2257.26,6771.77,42.3,2861.72,86533.8
+2024-07-03,2024,7,July,Fernanda Rocha,Cambuci,Saúde,Termômetro Digital,1,176.27,176.27,26.8,47.3,128960.9
+2024-04-29,2024,4,April,Marcos Oliveira,Tamboré,Odontologia,Implante Unitário,1,1131.22,1131.22,39.5,446.47,121557.56
+2024-09-22,2024,9,September,Ricardo Alves,Paraíso,Odontologia,Implante Unitário,12,1162.46,13949.49,39.7,5541.23,140223.82
+2024-12-21,2024,12,December,Carlos Souza,Paraíso,Odontologia,Kit Cirúrgico,7,3212.53,22487.72,39.8,8958.15,87224.11
+2024-07-07,2024,7,July,Fernanda Rocha,Cambuci,Saúde,Termômetro Digital,11,197.75,2175.2,25.9,562.44,117135.58
+2024-01-05,2024,1,January,Patrícia Nunes,Tamboré,Odontologia,Coroa Zircônia,6,1023.6,6141.58,35.8,2196.75,90596.19
+2024-07-29,2024,7,July,Patrícia Nunes,Tamboré,Saúde,Termômetro Digital,2,194.28,388.55,25.8,100.4,88621.01
+2024-07-15,2024,7,July,Fernanda Rocha,Paraíso,Saúde,Termômetro Digital,4,171.97,687.88,25.5,175.45,118737.76
+2024-11-03,2024,11,November,Ricardo Alves,Tamboré,Saúde,Oxímetro Pro,14,481.24,6737.31,32.3,2173.12,94381.2
+2024-11-06,2024,11,November,Patrícia Nunes,Cambuci,Dispositivos Médicos,Bomba Infusão,5,6895.87,34479.34,44.7,15413.23,135564.46
+2024-05-02,2024,5,May,Marcos Oliveira,Paraíso,Odontologia,Kit Cirúrgico,8,3596.66,28773.26,35.4,10193.24,142210.72
+2024-01-07,2024,1,January,Fernanda Rocha,Paraíso,Odontologia,Coroa Zircônia,14,1046.44,14650.14,34.5,5057.99,118244.94
+2024-03-29,2024,3,March,Marcos Oliveira,Cambuci,Odontologia,Implante Unitário,1,1142.92,1142.92,39.2,448.47,84232.82
+2024-07-22,2024,7,July,Patrícia Nunes,Paraíso,Dispositivos Médicos,Bomba Infusão,7,6970.43,48792.98,40.5,19758.51,117559.54
+2024-11-11,2024,11,November,Carlos Souza,Paraíso,Odontologia,Prótese Parcial,2,2104.75,4209.5,38.2,1608.84,136564.21
+2024-10-01,2024,10,October,Fernanda Rocha,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,5,9253.64,46268.22,46.4,21459.08,139252.77
+2024-01-30,2024,1,January,Carlos Souza,Cambuci,Saúde,Oxímetro Pro,8,460.11,3680.85,27.3,1005.98,126625.57
+2024-12-02,2024,12,December,Ricardo Alves,Cambuci,Odontologia,Implante Unitário,12,1112.93,13355.17,39.1,5217.61,114748.91
+2024-06-26,2024,6,June,Patrícia Nunes,Tamboré,Dispositivos Médicos,Desfibrilador Port.,3,17538.73,52616.19,51.5,27096.63,141142.2
+2024-03-01,2024,3,March,Ana Lima,Paraíso,Saúde,Nebulizador Compact,9,565.92,5093.28,33.3,1694.73,120365.62
+2024-02-09,2024,2,February,Marcos Oliveira,Paraíso,Dispositivos Médicos,Desfibrilador Port.,1,17998.6,17998.6,50.4,9071.53,105738.14
+2024-05-10,2024,5,May,Ana Lima,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,4,9328.59,37314.35,42.0,15677.78,140108.23
+2024-01-07,2024,1,January,Carlos Souza,Cambuci,Saúde,Nebulizador Compact,7,672.11,4704.76,30.1,1414.9,147223.95
+2024-01-19,2024,1,January,Patrícia Nunes,Tamboré,Dispositivos Médicos,Bomba Infusão,4,6461.21,25844.86,42.5,10983.43,130420.15
+2024-05-18,2024,5,May,Ana Lima,Tamboré,Saúde,Oxímetro Pro,9,465.6,4190.39,27.3,1144.65,95622.95
+2024-09-21,2024,9,September,Ana Lima,Paraíso,Odontologia,Coroa Zircônia,14,937.33,13122.65,37.1,4864.45,102911.06
+2024-10-10,2024,10,October,Marcos Oliveira,Cambuci,Saúde,Termômetro Digital,5,182.3,911.49,26.8,244.49,123590.23
+2024-08-25,2024,8,August,Fernanda Rocha,Tamboré,Saúde,Termômetro Digital,12,194.42,2332.99,29.6,689.7,97158.88
+2024-01-04,2024,1,January,Marcos Oliveira,Cambuci,Odontologia,Prótese Parcial,11,2242.62,24668.83,42.3,10425.83,146569.32
+2024-01-01,2024,1,January,Ricardo Alves,Paraíso,Dispositivos Médicos,Desfibrilador Port.,2,16938.7,33877.4,52.9,17920.7,109387.11
+2024-01-31,2024,1,January,Carlos Souza,Tamboré,Saúde,Oxímetro Pro,1,487.91,487.91,32.4,158.0,116383.15
+2024-12-24,2024,12,December,Fernanda Rocha,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,10,8180.13,81801.27,42.8,35011.83,137397.4
+2024-02-08,2024,2,February,Patrícia Nunes,Tamboré,Odontologia,Coroa Zircônia,11,1070.99,11780.85,33.4,3937.23,98269.37
+2024-06-10,2024,6,June,Marcos Oliveira,Tamboré,Dispositivos Médicos,Desfibrilador Port.,6,17829.93,106979.57,48.4,51779.9,146048.83
+2024-03-10,2024,3,March,Patrícia Nunes,Cambuci,Odontologia,Implante Unitário,3,1187.9,3563.69,40.9,1456.99,88451.57
+2024-07-02,2024,7,July,Carlos Souza,Paraíso,Saúde,Esfigmomanômetro,5,417.49,2087.47,26.5,554.07,136531.78
+2024-06-04,2024,6,June,Ricardo Alves,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,4,9497.95,37991.78,44.0,16703.76,86384.9
+2024-05-07,2024,5,May,Fernanda Rocha,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,11,8541.94,93961.3,46.9,44087.15,92170.74
+2024-07-26,2024,7,July,Marcos Oliveira,Tamboré,Dispositivos Médicos,Monitor Cardíaco,2,12405.11,24810.22,49.8,12361.29,89785.51
+2024-01-07,2024,1,January,Ana Lima,Cambuci,Odontologia,Kit Cirúrgico,14,3430.41,48025.7,39.1,18786.55,145630.24
+2024-02-13,2024,2,February,Patrícia Nunes,Tamboré,Saúde,Oxímetro Pro,1,494.74,494.74,28.2,139.45,125219.08
+2024-03-06,2024,3,March,Ana Lima,Paraíso,Odontologia,Implante Unitário,8,1092.15,8737.22,44.5,3891.98,110320.95
+2024-07-21,2024,7,July,Marcos Oliveira,Cambuci,Saúde,Esfigmomanômetro,3,378.61,1135.82,31.4,357.21,99248.72
+2024-08-16,2024,8,August,Carlos Souza,Cambuci,Dispositivos Médicos,Monitor Cardíaco,11,11987.76,131865.39,47.5,62599.08,118548.21
+2024-02-01,2024,2,February,Ana Lima,Paraíso,Saúde,Termômetro Digital,7,169.18,1184.26,30.3,358.92,116806.98
+2024-11-18,2024,11,November,Patrícia Nunes,Cambuci,Saúde,Nebulizador Compact,8,625.52,5004.16,31.9,1596.73,143887.39
+2024-09-14,2024,9,September,Fernanda Rocha,Paraíso,Saúde,Termômetro Digital,1,173.48,173.48,26.3,45.65,142703.53
+2024-05-23,2024,5,May,Ana Lima,Paraíso,Dispositivos Médicos,Desfibrilador Port.,13,18302.36,237930.68,48.4,115150.29,91173.74
+2024-05-06,2024,5,May,Ricardo Alves,Cambuci,Saúde,Oxímetro Pro,13,494.68,6430.78,28.3,1820.97,139255.36
+2024-07-17,2024,7,July,Fernanda Rocha,Cambuci,Odontologia,Kit Cirúrgico,10,3372.6,33726.03,39.4,13297.71,105114.82
+2024-10-29,2024,10,October,Ana Lima,Tamboré,Dispositivos Médicos,Desfibrilador Port.,10,18228.98,182289.83,50.4,91835.16,93176.36
+2024-09-09,2024,9,September,Patrícia Nunes,Paraíso,Odontologia,Coroa Zircônia,1,899.69,899.69,33.4,300.46,95316.63
+2024-09-26,2024,9,September,Marcos Oliveira,Cambuci,Saúde,Termômetro Digital,13,166.7,2167.07,29.3,634.99,144314.66
+2024-06-14,2024,6,June,Ana Lima,Cambuci,Odontologia,Kit Cirúrgico,13,3227.64,41959.38,38.2,16010.76,105542.29
+2024-02-07,2024,2,February,Fernanda Rocha,Tamboré,Dispositivos Médicos,Bomba Infusão,10,6165.38,61653.83,41.8,25777.83,89551.62
+2024-03-21,2024,3,March,Ricardo Alves,Paraíso,Dispositivos Médicos,Bomba Infusão,11,6455.16,71006.76,44.2,31415.59,119338.41
+2024-11-10,2024,11,November,Fernanda Rocha,Cambuci,Dispositivos Médicos,Monitor Cardíaco,7,12017.06,84119.41,49.1,41328.7,88914.39
+2024-01-01,2024,1,January,Ricardo Alves,Tamboré,Saúde,Oxímetro Pro,3,459.21,1377.64,32.5,448.09,147727.22
+2024-04-23,2024,4,April,Ricardo Alves,Tamboré,Odontologia,Coroa Zircônia,3,946.91,2840.73,32.5,922.3,104276.71
+2024-06-12,2024,6,June,Carlos Souza,Tamboré,Odontologia,Prótese Parcial,8,1894.79,15158.29,38.3,5799.27,128522.33
+2024-06-28,2024,6,June,Fernanda Rocha,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,1,8696.97,8696.97,46.4,4035.0,147837.13
+2024-07-30,2024,7,July,Marcos Oliveira,Paraíso,Saúde,Esfigmomanômetro,2,415.65,831.29,30.7,255.48,120463.88
+2024-12-17,2024,12,December,Carlos Souza,Cambuci,Saúde,Oxímetro Pro,13,481.12,6254.54,28.8,1799.4,102310.18
+2024-02-23,2024,2,February,Ana Lima,Paraíso,Odontologia,Coroa Zircônia,3,1025.47,3076.41,35.3,1085.43,142868.69
+2024-02-17,2024,2,February,Fernanda Rocha,Tamboré,Dispositivos Médicos,Bomba Infusão,12,6071.53,72858.37,45.7,33263.24,91549.8
+2024-08-10,2024,8,August,Carlos Souza,Cambuci,Odontologia,Prótese Parcial,4,2299.25,9196.99,39.5,3628.73,118787.87
+2024-10-03,2024,10,October,Fernanda Rocha,Tamboré,Saúde,Nebulizador Compact,4,569.89,2279.57,31.4,714.81,118476.38
+2024-09-08,2024,9,September,Carlos Souza,Cambuci,Saúde,Oxímetro Pro,7,412.89,2890.21,31.9,923.23,123756.37
+2024-09-02,2024,9,September,Carlos Souza,Cambuci,Odontologia,Kit Cirúrgico,3,3596.73,10790.2,40.9,4409.13,113149.95
+2024-02-29,2024,2,February,Fernanda Rocha,Paraíso,Saúde,Esfigmomanômetro,15,402.56,6038.42,26.5,1603.01,118088.82
+2024-04-04,2024,4,April,Fernanda Rocha,Paraíso,Saúde,Termômetro Digital,8,163.61,1308.85,27.6,361.75,98438.06
+2024-05-17,2024,5,May,Patrícia Nunes,Cambuci,Odontologia,Implante Unitário,2,1240.35,2480.71,43.8,1087.77,108979.07
+2024-10-28,2024,10,October,Carlos Souza,Tamboré,Odontologia,Coroa Zircônia,14,984.43,13781.97,37.8,5208.73,128094.76
+2024-08-31,2024,8,August,Patrícia Nunes,Cambuci,Saúde,Nebulizador Compact,2,606.96,1213.91,34.1,414.23,82430.99
+2024-10-19,2024,10,October,Patrícia Nunes,Tamboré,Dispositivos Médicos,Monitor Cardíaco,2,13623.14,27246.27,47.7,12994.9,146434.3
+2024-03-26,2024,3,March,Carlos Souza,Cambuci,Odontologia,Implante Unitário,7,1098.81,7691.66,43.1,3315.01,94134.35
+2024-11-17,2024,11,November,Carlos Souza,Tamboré,Saúde,Nebulizador Compact,15,648.16,9722.41,33.8,3290.46,86091.92
+2024-10-11,2024,10,October,Marcos Oliveira,Tamboré,Saúde,Nebulizador Compact,9,614.81,5533.3,34.2,1894.65,135058.54
+2024-11-15,2024,11,November,Patrícia Nunes,Tamboré,Saúde,Oxímetro Pro,7,418.47,2929.27,30.4,890.49,120787.4
+2024-02-21,2024,2,February,Ana Lima,Tamboré,Odontologia,Prótese Parcial,14,2114.97,29609.52,39.1,11566.43,108762.3
+2024-07-15,2024,7,July,Ricardo Alves,Paraíso,Dispositivos Médicos,Bomba Infusão,1,6260.75,6260.75,42.4,2655.68,123277.11
+2024-12-14,2024,12,December,Ricardo Alves,Paraíso,Odontologia,Coroa Zircônia,15,1054.28,15814.14,36.1,5715.72,83450.37
+2024-08-31,2024,8,August,Fernanda Rocha,Paraíso,Odontologia,Prótese Parcial,14,2223.33,31126.67,38.9,12097.6,138999.26
+2024-12-22,2024,12,December,Ricardo Alves,Cambuci,Odontologia,Kit Cirúrgico,5,3831.95,19159.77,37.7,7215.31,137807.63
+2024-05-17,2024,5,May,Ricardo Alves,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,4,8796.26,35185.02,47.5,16706.06,108501.93
+2024-09-05,2024,9,September,Patrícia Nunes,Paraíso,Odontologia,Kit Cirúrgico,2,3367.79,6735.57,38.0,2562.26,89495.49
+2024-09-25,2024,9,September,Patrícia Nunes,Cambuci,Odontologia,Kit Cirúrgico,15,3733.05,55995.76,40.0,22410.54,97464.32
+2024-08-21,2024,8,August,Ana Lima,Paraíso,Dispositivos Médicos,Monitor Cardíaco,5,12170.88,60854.4,47.8,29079.46,107785.96
+2024-03-04,2024,3,March,Ricardo Alves,Cambuci,Odontologia,Prótese Parcial,8,2139.5,17115.99,38.1,6515.29,140933.65
+2024-10-27,2024,10,October,Patrícia Nunes,Paraíso,Saúde,Termômetro Digital,14,194.2,2718.82,29.5,801.88,128219.54
+2024-05-25,2024,5,May,Ana Lima,Paraíso,Odontologia,Kit Cirúrgico,14,3550.58,49708.13,40.8,20275.7,139997.78
+2024-11-27,2024,11,November,Carlos Souza,Tamboré,Odontologia,Prótese Parcial,11,2061.99,22681.92,37.1,8419.6,134621.26
+2024-12-15,2024,12,December,Ana Lima,Paraíso,Odontologia,Kit Cirúrgico,10,3710.61,37106.05,36.3,13485.31,122584.07
+2024-06-05,2024,6,June,Ricardo Alves,Tamboré,Dispositivos Médicos,Desfibrilador Port.,7,19423.74,135966.17,52.1,70851.31,112129.86
+2024-04-21,2024,4,April,Marcos Oliveira,Paraíso,Dispositivos Médicos,Bomba Infusão,10,6167.1,61670.98,43.1,26561.13,126364.88
+2024-07-10,2024,7,July,Patrícia Nunes,Tamboré,Dispositivos Médicos,Desfibrilador Port.,5,18663.89,93319.44,49.9,46557.47,103539.86
+2024-05-21,2024,5,May,Ricardo Alves,Paraíso,Saúde,Nebulizador Compact,11,646.18,7107.93,34.4,2441.88,100915.38
+2024-03-17,2024,3,March,Patrícia Nunes,Cambuci,Odontologia,Coroa Zircônia,11,944.64,10391.03,32.8,3412.37,81781.87
+2024-09-11,2024,9,September,Fernanda Rocha,Paraíso,Saúde,Esfigmomanômetro,7,408.47,2859.26,29.5,843.43,149632.76
+2024-04-07,2024,4,April,Fernanda Rocha,Tamboré,Dispositivos Médicos,Monitor Cardíaco,11,12586.59,138452.47,49.7,68823.87,143456.86
+2024-12-09,2024,12,December,Fernanda Rocha,Tamboré,Saúde,Termômetro Digital,14,185.67,2599.44,28.3,736.93,100564.88
+2024-08-29,2024,8,August,Carlos Souza,Tamboré,Saúde,Termômetro Digital,11,194.39,2138.24,28.9,618.52,95557.75
+2024-04-24,2024,4,April,Ricardo Alves,Paraíso,Saúde,Nebulizador Compact,6,590.31,3541.86,30.8,1089.63,139584.97
+2024-08-28,2024,8,August,Ana Lima,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,8,9593.18,76745.43,45.0,34537.64,140724.84
+2024-07-14,2024,7,July,Patrícia Nunes,Paraíso,Saúde,Oxímetro Pro,14,481.88,6746.34,27.8,1877.11,94020.76
+2024-07-28,2024,7,July,Patrícia Nunes,Paraíso,Odontologia,Prótese Parcial,14,2190.58,30668.13,41.7,12780.53,114130.66
+2024-11-19,2024,11,November,Carlos Souza,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,1,8814.65,8814.65,43.3,3812.89,134147.96
+2024-10-22,2024,10,October,Carlos Souza,Paraíso,Odontologia,Kit Cirúrgico,10,3453.6,34535.98,37.6,12977.4,110031.78
+2024-09-01,2024,9,September,Marcos Oliveira,Cambuci,Odontologia,Kit Cirúrgico,12,3411.17,40934.05,35.1,14361.49,102554.92
+2024-09-28,2024,9,September,Carlos Souza,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,11,9315.81,102473.95,43.4,44430.24,141388.96
+2024-06-08,2024,6,June,Carlos Souza,Cambuci,Saúde,Nebulizador Compact,3,566.1,1698.29,29.3,497.16,146392.44
+2024-08-21,2024,8,August,Ricardo Alves,Tamboré,Dispositivos Médicos,Desfibrilador Port.,7,19396.71,135776.95,53.0,71924.9,103991.3
+2024-09-07,2024,9,September,Fernanda Rocha,Cambuci,Odontologia,Coroa Zircônia,1,926.77,926.77,36.4,337.0,89184.4
+2024-01-12,2024,1,January,Patrícia Nunes,Tamboré,Odontologia,Implante Unitário,6,1250.67,7504.0,43.8,3283.21,106263.47
+2024-11-23,2024,11,November,Fernanda Rocha,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,10,9780.53,97805.31,46.0,44962.88,125749.73
+2024-01-11,2024,1,January,Ana Lima,Tamboré,Odontologia,Coroa Zircônia,8,956.53,7652.24,35.3,2699.99,113207.74
+2024-03-19,2024,3,March,Carlos Souza,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,5,8759.15,43795.76,42.6,18659.57,116421.65
+2024-11-14,2024,11,November,Patrícia Nunes,Tamboré,Odontologia,Coroa Zircônia,14,1058.13,14813.82,35.1,5195.13,123238.86
+2024-05-24,2024,5,May,Ana Lima,Cambuci,Saúde,Termômetro Digital,10,169.19,1691.91,26.6,449.68,116620.23
+2024-04-13,2024,4,April,Fernanda Rocha,Tamboré,Saúde,Nebulizador Compact,3,562.89,1688.66,32.0,540.0,94538.58
+2024-09-03,2024,9,September,Fernanda Rocha,Cambuci,Odontologia,Implante Unitário,11,1101.36,12114.97,39.7,4805.11,120190.69
+2024-09-09,2024,9,September,Carlos Souza,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,12,9297.97,111575.59,47.4,52918.83,125103.58
+2024-08-21,2024,8,August,Fernanda Rocha,Paraíso,Saúde,Oxímetro Pro,2,478.19,956.37,32.2,308.38,139657.41
+2024-07-03,2024,7,July,Ricardo Alves,Paraíso,Saúde,Oxímetro Pro,2,481.61,963.22,32.3,311.52,80677.06
+2024-03-11,2024,3,March,Ricardo Alves,Tamboré,Odontologia,Prótese Parcial,6,2265.7,13594.21,42.7,5808.88,98781.66
+2024-02-17,2024,2,February,Fernanda Rocha,Paraíso,Odontologia,Implante Unitário,7,1176.06,8232.42,41.7,3436.15,138499.58
+2024-12-19,2024,12,December,Marcos Oliveira,Paraíso,Dispositivos Médicos,Monitor Cardíaco,2,11581.28,23162.56,49.4,11432.68,148709.84
+2024-03-22,2024,3,March,Ana Lima,Paraíso,Dispositivos Médicos,Bomba Infusão,13,6792.38,88300.99,42.6,37641.81,122792.62
+2024-07-02,2024,7,July,Patrícia Nunes,Cambuci,Dispositivos Médicos,Monitor Cardíaco,8,13550.99,108407.96,45.7,49518.18,108789.9
+2024-01-24,2024,1,January,Ana Lima,Paraíso,Dispositivos Médicos,Desfibrilador Port.,1,18736.45,18736.45,51.1,9568.25,133727.01
+2024-10-22,2024,10,October,Ricardo Alves,Tamboré,Odontologia,Prótese Parcial,9,2109.7,18987.33,41.2,7823.44,86666.95
+2024-12-04,2024,12,December,Ricardo Alves,Cambuci,Saúde,Nebulizador Compact,11,641.86,7060.47,31.3,2210.58,138732.31
+2024-10-12,2024,10,October,Patrícia Nunes,Cambuci,Odontologia,Kit Cirúrgico,9,3744.19,33697.73,40.1,13516.57,140859.09
+2024-02-08,2024,2,February,Marcos Oliveira,Paraíso,Odontologia,Prótese Parcial,5,1911.15,9555.74,38.3,3663.31,125032.21
+2024-07-25,2024,7,July,Carlos Souza,Cambuci,Saúde,Esfigmomanômetro,13,395.7,5144.06,26.5,1364.62,114891.93
+2024-06-10,2024,6,June,Ana Lima,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,2,8728.12,17456.25,42.2,7369.15,118436.92
+2024-02-16,2024,2,February,Patrícia Nunes,Tamboré,Dispositivos Médicos,Desfibrilador Port.,15,18030.02,270450.24,48.2,130468.19,127003.21
+2024-06-23,2024,6,June,Fernanda Rocha,Cambuci,Odontologia,Coroa Zircônia,6,991.79,5950.74,35.7,2125.52,113119.36
+2024-12-02,2024,12,December,Fernanda Rocha,Tamboré,Saúde,Oxímetro Pro,2,473.34,946.68,28.3,268.2,103895.0
+2024-11-20,2024,11,November,Fernanda Rocha,Tamboré,Dispositivos Médicos,Desfibrilador Port.,12,16582.76,198993.12,52.4,104235.11,114469.55
+2024-07-28,2024,7,July,Ana Lima,Paraíso,Dispositivos Médicos,Monitor Cardíaco,4,11551.86,46207.46,50.1,23156.02,95091.27
+2024-04-07,2024,4,April,Ricardo Alves,Paraíso,Odontologia,Coroa Zircônia,1,1063.62,1063.62,37.0,393.8,121216.78
+2024-08-18,2024,8,August,Marcos Oliveira,Tamboré,Dispositivos Médicos,Monitor Cardíaco,8,11260.84,90086.75,49.4,44518.42,118725.84
+2024-08-09,2024,8,August,Patrícia Nunes,Paraíso,Dispositivos Médicos,Monitor Cardíaco,12,12696.39,152356.63,49.4,75238.23,88986.72
+2024-07-17,2024,7,July,Ricardo Alves,Tamboré,Dispositivos Médicos,Desfibrilador Port.,9,19373.01,174357.05,49.5,86327.64,122629.56
+2024-12-20,2024,12,December,Carlos Souza,Paraíso,Saúde,Nebulizador Compact,5,614.15,3070.76,29.8,915.09,108892.18
+2024-12-24,2024,12,December,Ricardo Alves,Tamboré,Saúde,Nebulizador Compact,12,649.37,7792.39,32.3,2518.62,95213.98
+2024-04-17,2024,4,April,Patrícia Nunes,Tamboré,Saúde,Nebulizador Compact,15,641.37,9620.62,34.9,3356.44,125506.05
+2024-04-01,2024,4,April,Patrícia Nunes,Tamboré,Dispositivos Médicos,Desfibrilador Port.,12,16615.46,199385.51,49.1,97925.06,113625.89
+2024-10-19,2024,10,October,Ricardo Alves,Tamboré,Saúde,Nebulizador Compact,15,663.07,9945.98,33.8,3366.7,116591.1
+2024-01-13,2024,1,January,Marcos Oliveira,Cambuci,Odontologia,Implante Unitário,4,1144.07,4576.3,43.7,2000.45,148847.27
+2024-12-15,2024,12,December,Fernanda Rocha,Cambuci,Odontologia,Prótese Parcial,4,2206.51,8826.04,37.2,3282.74,136981.84
+2024-02-22,2024,2,February,Patrícia Nunes,Tamboré,Dispositivos Médicos,Monitor Cardíaco,12,12867.8,154413.58,47.3,73089.07,115764.56
+2024-12-22,2024,12,December,Fernanda Rocha,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,15,8689.22,130338.26,44.5,57999.74,135167.81
+2024-12-16,2024,12,December,Fernanda Rocha,Tamboré,Odontologia,Implante Unitário,12,1140.32,13683.86,42.7,5846.21,134664.74
+2024-08-14,2024,8,August,Carlos Souza,Tamboré,Dispositivos Médicos,Desfibrilador Port.,13,18318.19,238136.43,51.4,122475.23,93752.84
+2024-04-09,2024,4,April,Fernanda Rocha,Paraíso,Odontologia,Implante Unitário,3,1310.99,3932.98,43.4,1707.33,88354.77
+2024-01-21,2024,1,January,Marcos Oliveira,Paraíso,Dispositivos Médicos,Desfibrilador Port.,3,16779.34,50338.03,52.1,26214.08,80395.16
+2024-08-26,2024,8,August,Ricardo Alves,Cambuci,Odontologia,Kit Cirúrgico,15,3375.84,50637.62,35.3,17877.68,145266.73
+2024-11-11,2024,11,November,Ricardo Alves,Paraíso,Saúde,Nebulizador Compact,2,655.22,1310.44,30.9,405.02,95397.34
+2024-04-04,2024,4,April,Patrícia Nunes,Cambuci,Dispositivos Médicos,Monitor Cardíaco,7,12607.7,88253.9,47.4,41850.44,104458.21
+2024-04-19,2024,4,April,Ricardo Alves,Paraíso,Saúde,Nebulizador Compact,5,585.09,2925.44,33.5,980.49,117134.92
+2024-10-14,2024,10,October,Ricardo Alves,Cambuci,Odontologia,Prótese Parcial,8,1990.95,15927.57,40.9,6506.98,144302.51
+2024-05-04,2024,5,May,Ana Lima,Tamboré,Saúde,Esfigmomanômetro,15,413.1,6196.56,26.7,1653.26,97961.34
+2024-05-24,2024,5,May,Ana Lima,Tamboré,Saúde,Esfigmomanômetro,8,354.42,2835.36,31.4,890.01,93475.87
+2024-09-20,2024,9,September,Ana Lima,Cambuci,Odontologia,Implante Unitário,11,1095.71,12052.85,43.0,5185.38,134150.76
+2024-12-16,2024,12,December,Marcos Oliveira,Cambuci,Odontologia,Coroa Zircônia,11,1042.08,11462.92,32.4,3717.74,128023.05
+2024-01-13,2024,1,January,Marcos Oliveira,Tamboré,Saúde,Oxímetro Pro,2,411.59,823.18,28.1,231.05,97633.56
+2024-02-06,2024,2,February,Patrícia Nunes,Cambuci,Saúde,Esfigmomanômetro,7,386.19,2703.31,28.4,768.46,102148.3
+2024-07-18,2024,7,July,Ricardo Alves,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,11,9292.11,102213.19,42.4,43317.36,132216.57
+2024-01-24,2024,1,January,Ricardo Alves,Cambuci,Saúde,Oxímetro Pro,5,475.82,2379.1,28.8,685.37,86055.37
+2024-08-12,2024,8,August,Marcos Oliveira,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,8,8288.26,66306.05,43.3,28723.25,132272.77
+2024-10-06,2024,10,October,Fernanda Rocha,Tamboré,Odontologia,Prótese Parcial,11,2262.53,24887.84,42.8,10650.05,140699.73
+2024-11-27,2024,11,November,Fernanda Rocha,Cambuci,Dispositivos Médicos,Monitor Cardíaco,2,11354.43,22708.87,48.4,10999.34,107585.72
+2024-10-07,2024,10,October,Ana Lima,Paraíso,Odontologia,Prótese Parcial,4,2063.31,8253.26,40.9,3373.57,115878.69
+2024-03-23,2024,3,March,Carlos Souza,Cambuci,Dispositivos Médicos,Desfibrilador Port.,4,16612.64,66450.56,51.0,33906.97,119710.49
+2024-01-28,2024,1,January,Patrícia Nunes,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,5,9205.6,46028.0,43.5,20024.08,93819.23
+2024-10-24,2024,10,October,Marcos Oliveira,Paraíso,Saúde,Termômetro Digital,11,185.6,2041.57,25.6,522.65,123366.1
+2024-04-09,2024,4,April,Fernanda Rocha,Paraíso,Saúde,Nebulizador Compact,10,639.77,6397.68,33.2,2121.52,90667.65
+2024-10-17,2024,10,October,Fernanda Rocha,Paraíso,Saúde,Termômetro Digital,1,173.28,173.28,29.7,51.49,129853.94
+2024-11-24,2024,11,November,Marcos Oliveira,Paraíso,Saúde,Termômetro Digital,11,188.39,2072.26,30.3,627.22,112399.39
+2024-07-02,2024,7,July,Fernanda Rocha,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,3,9159.08,27477.25,42.5,11675.59,99643.12
+2024-03-12,2024,3,March,Patrícia Nunes,Cambuci,Saúde,Oxímetro Pro,12,411.79,4941.43,27.1,1339.71,115502.48
+2024-01-16,2024,1,January,Patrícia Nunes,Tamboré,Saúde,Termômetro Digital,15,163.32,2449.79,26.6,650.75,142579.02
+2024-10-03,2024,10,October,Marcos Oliveira,Tamboré,Odontologia,Prótese Parcial,7,1983.79,13886.52,41.6,5781.36,131325.88
+2024-05-28,2024,5,May,Carlos Souza,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,7,8657.68,60603.76,42.1,25492.09,96721.66
+2024-11-10,2024,11,November,Ricardo Alves,Cambuci,Dispositivos Médicos,Monitor Cardíaco,8,11648.06,93184.45,48.4,45099.54,119606.88
+2024-03-15,2024,3,March,Ricardo Alves,Tamboré,Saúde,Nebulizador Compact,1,585.13,585.13,31.9,186.81,84400.28
+2024-07-08,2024,7,July,Carlos Souza,Cambuci,Dispositivos Médicos,Monitor Cardíaco,9,13519.32,121673.84,47.2,57390.52,112877.2
+2024-08-20,2024,8,August,Ana Lima,Cambuci,Dispositivos Médicos,Desfibrilador Port.,2,18733.45,37466.9,50.1,18781.5,138075.3
+2024-05-14,2024,5,May,Patrícia Nunes,Tamboré,Dispositivos Médicos,Monitor Cardíaco,7,12884.19,90189.32,47.2,42561.95,125733.56
+2024-02-09,2024,2,February,Patrícia Nunes,Paraíso,Saúde,Termômetro Digital,9,176.61,1589.49,29.9,475.31,104152.26
+2024-09-03,2024,9,September,Patrícia Nunes,Cambuci,Dispositivos Médicos,Monitor Cardíaco,8,11664.01,93312.12,45.5,42422.05,125043.39
+2024-04-18,2024,4,April,Carlos Souza,Cambuci,Odontologia,Prótese Parcial,10,2191.27,21912.67,37.7,8263.26,96124.24
+2024-06-18,2024,6,June,Ricardo Alves,Cambuci,Saúde,Esfigmomanômetro,8,367.43,2939.48,27.0,792.7,138335.55
+2024-01-12,2024,1,January,Carlos Souza,Cambuci,Odontologia,Kit Cirúrgico,3,3590.68,10772.03,35.2,3795.54,120058.85
+2024-01-29,2024,1,January,Carlos Souza,Paraíso,Odontologia,Coroa Zircônia,10,1071.97,10719.72,35.8,3840.42,141495.63
+2024-12-04,2024,12,December,Fernanda Rocha,Cambuci,Odontologia,Coroa Zircônia,10,1076.58,10765.84,37.2,4005.3,91939.67
+2024-07-29,2024,7,July,Patrícia Nunes,Cambuci,Dispositivos Médicos,Monitor Cardíaco,10,12899.12,128991.22,46.6,60093.3,130693.08
+2024-06-24,2024,6,June,Marcos Oliveira,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,4,8683.22,34732.86,42.8,14863.33,81159.38
+2024-09-24,2024,9,September,Patrícia Nunes,Tamboré,Saúde,Termômetro Digital,10,165.47,1654.67,27.9,460.91,123032.37
+2024-01-20,2024,1,January,Patrícia Nunes,Tamboré,Odontologia,Implante Unitário,8,1238.25,9906.03,44.4,4399.46,117750.02
+2024-01-01,2024,1,January,Ricardo Alves,Tamboré,Saúde,Esfigmomanômetro,6,419.24,2515.42,30.2,759.3,110026.94
+2024-09-03,2024,9,September,Marcos Oliveira,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,7,8248.31,57738.18,44.9,25902.99,96275.9
+2024-02-12,2024,2,February,Fernanda Rocha,Tamboré,Dispositivos Médicos,Bomba Infusão,5,6283.29,31416.44,44.3,13903.31,135259.57
+2024-10-22,2024,10,October,Patrícia Nunes,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,7,9175.09,64225.64,46.1,29625.1,102113.12
+2024-07-04,2024,7,July,Ana Lima,Cambuci,Saúde,Nebulizador Compact,5,664.02,3320.09,31.5,1047.2,105595.09
+2024-05-21,2024,5,May,Ricardo Alves,Paraíso,Odontologia,Coroa Zircônia,9,1035.62,9320.6,34.9,3252.41,105914.91
+2024-10-11,2024,10,October,Marcos Oliveira,Paraíso,Saúde,Nebulizador Compact,13,645.48,8391.26,33.4,2803.91,139849.92
+2024-12-03,2024,12,December,Ana Lima,Tamboré,Odontologia,Coroa Zircônia,13,1019.07,13247.85,33.0,4367.92,95012.07
+2024-07-24,2024,7,July,Fernanda Rocha,Tamboré,Dispositivos Médicos,Bisturi Eletrônico,3,8702.6,26107.81,45.8,11961.36,136305.86
+2024-03-15,2024,3,March,Marcos Oliveira,Tamboré,Saúde,Oxímetro Pro,2,428.68,857.36,29.2,250.56,122632.02
+2024-07-15,2024,7,July,Marcos Oliveira,Tamboré,Dispositivos Médicos,Desfibrilador Port.,12,19668.71,236024.49,47.3,111745.27,134152.59
+2024-03-30,2024,3,March,Ricardo Alves,Paraíso,Saúde,Oxímetro Pro,4,481.55,1926.2,32.6,627.64,116270.73
+2024-04-09,2024,4,April,Ana Lima,Tamboré,Dispositivos Médicos,Monitor Cardíaco,10,11673.71,116737.07,45.2,52784.26,96747.96
+2024-01-01,2024,1,January,Carlos Souza,Cambuci,Saúde,Esfigmomanômetro,6,403.23,2419.4,28.4,687.9,94021.73
+2024-01-08,2024,1,January,Ricardo Alves,Tamboré,Odontologia,Implante Unitário,9,1148.28,10334.51,44.0,4544.97,144050.63
+2024-06-27,2024,6,June,Fernanda Rocha,Paraíso,Odontologia,Kit Cirúrgico,8,3800.8,30406.4,38.4,11691.09,98277.53
+2024-07-27,2024,7,July,Patrícia Nunes,Cambuci,Dispositivos Médicos,Bisturi Eletrônico,9,8533.77,76803.91,47.7,36621.71,136205.96
+2024-05-11,2024,5,May,Patrícia Nunes,Tamboré,Saúde,Esfigmomanômetro,7,394.93,2764.49,30.6,846.48,133023.13
+2024-08-22,2024,8,August,Ricardo Alves,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,8,8216.96,65735.66,42.4,27875.42,124356.33
+2024-04-22,2024,4,April,Ricardo Alves,Tamboré,Odontologia,Prótese Parcial,7,2291.29,16039.01,40.1,6431.49,80680.62
+2024-05-14,2024,5,May,Carlos Souza,Paraíso,Odontologia,Coroa Zircônia,11,1028.76,11316.39,34.1,3853.45,118818.61
+2024-04-01,2024,4,April,Marcos Oliveira,Paraíso,Saúde,Termômetro Digital,15,182.65,2739.8,26.1,715.0,132230.94
+2024-04-07,2024,4,April,Marcos Oliveira,Tamboré,Odontologia,Kit Cirúrgico,12,3319.44,39833.27,36.6,14575.96,96044.53
+2024-05-07,2024,5,May,Patrícia Nunes,Paraíso,Odontologia,Implante Unitário,2,1300.85,2601.69,43.1,1120.15,126439.69
+2024-11-10,2024,11,November,Ana Lima,Tamboré,Odontologia,Coroa Zircônia,6,1003.65,6021.9,35.0,2104.9,148975.29
+2024-10-21,2024,10,October,Fernanda Rocha,Paraíso,Odontologia,Prótese Parcial,7,1983.28,13882.95,40.5,5617.04,83790.37
+2024-08-04,2024,8,August,Marcos Oliveira,Tamboré,Odontologia,Prótese Parcial,7,2251.37,15759.58,41.7,6564.72,112003.72
+2024-03-02,2024,3,March,Ricardo Alves,Tamboré,Saúde,Nebulizador Compact,12,559.04,6708.53,33.0,2216.81,106559.96
+2024-02-21,2024,2,February,Fernanda Rocha,Paraíso,Dispositivos Médicos,Desfibrilador Port.,3,18174.83,54524.48,48.4,26402.3,112994.18
+2024-11-09,2024,11,November,Fernanda Rocha,Paraíso,Odontologia,Coroa Zircônia,7,923.26,6462.85,36.2,2339.83,106061.67
+2024-07-24,2024,7,July,Fernanda Rocha,Paraíso,Odontologia,Kit Cirúrgico,10,3630.21,36302.08,39.9,14479.14,130457.08
+2024-04-30,2024,4,April,Patrícia Nunes,Paraíso,Saúde,Termômetro Digital,3,190.8,572.4,29.4,168.46,113109.09
+2024-01-05,2024,1,January,Carlos Souza,Paraíso,Saúde,Termômetro Digital,15,192.58,2888.67,28.1,811.78,130439.22
+2024-09-06,2024,9,September,Fernanda Rocha,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,7,8186.18,57303.23,43.0,24628.96,95082.71
+2024-05-10,2024,5,May,Marcos Oliveira,Tamboré,Odontologia,Coroa Zircônia,12,947.59,11371.11,34.2,3885.03,119224.5
+2024-05-11,2024,5,May,Fernanda Rocha,Cambuci,Saúde,Oxímetro Pro,6,483.06,2898.38,32.8,950.05,93927.07
+2024-10-21,2024,10,October,Ricardo Alves,Tamboré,Dispositivos Médicos,Monitor Cardíaco,13,11961.52,155499.78,47.0,73007.99,115731.12
+2024-08-16,2024,8,August,Ana Lima,Paraíso,Dispositivos Médicos,Desfibrilador Port.,8,18474.16,147793.31,47.9,70747.31,91730.29
+2024-06-21,2024,6,June,Marcos Oliveira,Tamboré,Dispositivos Médicos,Bomba Infusão,14,7245.48,101436.69,40.5,41056.17,104053.78
+2024-06-09,2024,6,June,Fernanda Rocha,Tamboré,Saúde,Nebulizador Compact,10,637.94,6379.36,30.6,1953.84,111142.89
+2024-07-04,2024,7,July,Ricardo Alves,Tamboré,Dispositivos Médicos,Bomba Infusão,7,6254.21,43779.44,45.1,19755.59,88752.79
+2024-04-30,2024,4,April,Ricardo Alves,Paraíso,Dispositivos Médicos,Bisturi Eletrônico,4,8307.1,33228.4,42.6,14161.3,84465.47
+2024-08-30,2024,8,August,Patrícia Nunes,Cambuci,Odontologia,Coroa Zircônia,9,1031.94,9287.45,32.5,3018.38,98371.66
+2024-03-20,2024,3,March,Ana Lima,Tamboré,Saúde,Nebulizador Compact,4,588.68,2354.71,30.7,723.01,123853.65
+2024-03-08,2024,3,March,Patrícia Nunes,Cambuci,Odontologia,Implante Unitário,11,1165.64,12822.06,44.5,5704.74,140496.88
+2024-08-27,2024,8,August,Patrícia Nunes,Paraíso,Dispositivos Médicos,Bomba Infusão,3,7329.19,21987.56,44.2,9715.37,92392.56
+2024-11-01,2024,11,November,Marcos Oliveira,Tamboré,Dispositivos Médicos,Bomba Infusão,9,6887.31,61985.83,43.2,26779.56,143624.62
+2024-09-03,2024,9,September,Patrícia Nunes,Cambuci,Odontologia,Coroa Zircônia,5,953.69,4768.47,33.6,1600.24,101250.1
+2024-01-01,2024,1,January,Patrícia Nunes,Cambuci,Saúde,Nebulizador Compact,8,624.35,4994.82,33.1,1654.62,114435.22
+2024-09-01,2024,9,September,Fernanda Rocha,Cambuci,Saúde,Nebulizador Compact,10,586.67,5866.71,29.0,1703.89,106155.07
