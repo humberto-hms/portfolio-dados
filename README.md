@@ -93,80 +93,39 @@ Arquivo: `analise_performance.sql`
 
 ## ⚙️ Como Reproduzir
 
-### Opção 1 — Apenas Power BI (sem SQL)
 1. Abra o **Power BI Desktop**
 2. **Obter Dados → Texto/CSV** → selecione `vendas.csv`
 3. Clique em **Transformar Dados** e verifique os tipos de coluna
-4. Crie as medidas DAX abaixo e monte as páginas
-
-### Opção 2 — SQL + Power BI
-1. Rode o `create_table.sql` no seu banco (PostgreSQL, MySQL ou SQLite)
-2. Importe o `vendas.csv` na tabela criada
-3. Execute as queries do `analise_performance.sql` no DBeaver ou similar
-4. Conecte o Power BI ao banco via **Obter Dados → Banco de Dados**
+4. Importe as medidas DAX abaixo e monte as páginas
 
 ---
 
 ## 📐 Medidas DAX
 
 ```dax
-// Faturamento Total
 Faturamento Total = SUM(vendas[faturamento])
 
-// Margem Total
 Margem Total = SUM(vendas[margem_valor])
 
-// Margem %
 Margem % = DIVIDE([Margem Total], [Faturamento Total])
 
-// Meta Total
-Meta Total = SUM(vendas[meta_mensal_vendedor])
+Atingimento % = DIVIDE([Faturamento Total], SUM(vendas[meta_mensal_vendedor]))
 
-// Atingimento de Meta
-Atingimento % = DIVIDE([Faturamento Total], [Meta Total])
-
-// Faturamento Mês Anterior
 Fat. Mês Anterior = 
     CALCULATE([Faturamento Total], PREVIOUSMONTH(vendas[data]))
 
-// Crescimento MoM
 Crescimento MoM = 
     DIVIDE([Faturamento Total] - [Fat. Mês Anterior], [Fat. Mês Anterior])
 ```
 
 ---
 
-## 📊 Estrutura do Dashboard
-
-**Página 1 — Visão Executiva**
-- Cards: Faturamento Total | Margem % | Atingimento de Meta | Crescimento MoM
-- Gráfico de linhas: Faturamento por mês vs. Meta
-- Gráfico de barras: Faturamento por Região
-
-**Página 2 — Performance de Vendedores**
-- Tabela: Vendedor | Realizado | Meta | Atingimento % | Status
-- Gráfico de barras horizontal: Ranking de vendedores
-- Segmentação por mês
-
-**Página 3 — Análise de Produtos**
-- Gráfico de barras: Top produtos por faturamento
-- Scatter plot: Faturamento vs. Margem por produto
-- Segmentação por Segmento
-
-**Página 4 — Forecast**
-- Gráfico de linhas com linha de tendência
-- Tabela: Mês | Realizado | Média Móvel 3M | Variação
-
-**Filtros globais:** Ano · Mês · Vendedor · Região · Segmento
-
----
-
 ## 💡 Principais Insights
 
-- Identificar vendedores abaixo da meta para ação corretiva imediata
-- Entender quais produtos têm melhor relação faturamento/margem
-- Monitorar regiões com queda ou crescimento de receita
-- Antecipar tendências com o forecast de média móvel de 3 meses
+- **Desfibrilador Portátil** e **Monitor Cardíaco** lideram o faturamento com as maiores margens absolutas
+- Região **Cambuci** concentra o maior volume de vendas de Dispositivos Médicos
+- Forecast de média móvel indica **tendência de crescimento** no segundo semestre
+- Dois vendedores ficaram abaixo de 80% da meta em pelo menos 3 meses consecutivos
 
 ---
 
